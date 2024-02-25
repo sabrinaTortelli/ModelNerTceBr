@@ -1,0 +1,2397 @@
+"id","nome","tipo","estado"
+1,"10º BIL Mth - 10º Batalhão de Infantaria Leve - Montanha",3,NULL
+2,"11ªUNIT-MT - Superintendência Regional do Dnit No Estado do Mato Grosso - Dnit/MT",2,11
+3,"11ºBIL/CE - Comando da 11º Brigada de Infantaria Leve - Md/CE",3,NULL
+4,"1º COMAR - 1º Comando Aéreo Regional",3,NULL
+5,"25º BC - 25º Batalhão de Caçadores",3,NULL
+6,"27ºBLOG - 27º Batalhão Logístico",3,NULL
+7,"2ºRCMEC - 2º Regimento de Cavalaria Mecanizado",3,NULL
+8,"31ºBIMTZ - 31º Batalhão de Infantaria Motorizado",3,NULL
+9,"3ªUNIT-CE - Superintendência Regional do Dnit No Estado do Ceará - Dnit/MT",2,6
+10,"3º BECNST - 3º Batalhão de Engenharia de Construção - Md/CE",3,NULL
+11,"4º BIL - 4º Batalhão de Infantaria Leve - Md/CE",3,NULL
+12,"5ºBLOG - 5º Batalhão Logístico",3,NULL
+13,"5ºBSUP - 5º Batalhão de Suprimento",3,NULL
+14,"7ºDSUP - 7º Depósito de Suprimento",3,NULL
+15,"8ºDSUP - 8º Depósito de Suprimento",3,NULL
+16,"9A. BIA AAA (ES) - 9ª Bateria de Artilharia Antiaérea (escola) - Forte Marechal Hermes - Md",3,NULL
+17,"Administração Regional do Senac No Estado de São Paulo",3,NULL
+18,"Administração Regional do Senac No Estado do Rio de Janeiro",3,NULL
+19,"Agencia Estadual de Defesa Agropecuaria do Maranhao",2,10
+20,"AGETOP - Agência Goiana de Transportes e Obras",2,9
+21,"AJURI AMAZÔNICO - Grupo de Apoio Ao Desenvolvimento Sustentável da Amazônia",2,4
+22,"AMAN - Academia Militar das Agulhas Negras",3,NULL
+23,"AMAPOC - Associação de Moradores Agroextrativistas da Comunidade da Ponta do Campo, Lago do Capanã Grande",1,14
+24,"Amazonas Distribuidora de Energia S.A. (privatizada)",2,4
+25,"Amazonas Geração e Transmissão de Energia S.A.",2,4
+26,"ANA - Agência Nacional de Águas e Saneamento Básico",3,NULL
+27,"Ancine - Agência Nacional do Cinema",3,NULL
+28,"ANEEL - Agência Nacional de Energia Elétrica",3,NULL
+29,"ANVISA - Agência Nacional de Vigilância Sanitária",3,NULL
+30,"APEX Brasil - Agência Brasileira de Promoção de Exportações e Investimentos",3,NULL
+31,"ASBT - Associação Sergipana de Blocos de Trio",2,26
+32,"Assembleia Legislativa do Rio de Janeiro",2,19
+33,"Associação de Assistência e Proteção À Maternidade e À Infância de Mossoró - RN",1,20
+34,"Associação dos Agricultores União Progressista
+",4,21
+35,"BAFL - Base Aérea de Florianópolis",1,24
+36,"Banco do Brasil Banco de Investimento S.A.",3,NULL
+37,"BATAFN-MM - Batalhão de Artilharia de Fuzileiros Navais - Mm (excluída)",3,NULL
+38,"BB - Banco do Brasil S.A.",3,NULL
+39,"BNB - Banco do Nordeste do Brasil S.A.",3,NULL
+40,"C10ªBDA INF MTZ - Comando da 10ª Brigada de Infantaria Motorizada",3,NULL
+41,"C10ªRM - Comando da 10ª Região Militar",3,NULL
+42,"C11ªRM - Comando da 11ª Região Militar - Md/CE",3,NULL
+43,"C14ªBIMTZ - Comando da 14ª Brigada de Infantaria Motorizada",3,NULL
+44,"C1ªRM - Comando da 1ª Região Militar",3,NULL
+45,"C2ªRM - Comando da 2ª Região Militar",3,NULL
+46,"C3ªRM - Comando da 3ª Região Militar",3,NULL
+47,"C4ªRM-4ªDEX - Comando da 4ª Região Militar e 4ª Divisão de Exército",3,NULL
+48,"C5ªRM-5ªDEX - Comando da 5ª Região Militar e 5ª Divisão de Exército *** Fundo do Exército",3,NULL
+49,"C7ªRM-7ªDEX - Comando da 7ª Região Militar e 7ª Divisão de Exército",3,NULL
+50,"Caixa Participações S.A.",3,NULL
+51,"Câmara Municipal de Santa Bárbara - MG",1,13
+52,"Capes - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",3,NULL
+53,"CC/PR - Casa Civil da Presidência da República",3,NULL
+54,"CCEE - Câmara de Comercialização de Energia Elétrica",3,NULL
+55,"CCIMAR - Centro de Controle Interno da Marinha",3,NULL
+56,"CD - Câmara dos Deputados
+",3,NULL
+57,"CEF - Caixa Econômica Federal",3,NULL
+58,"Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",2,19
+59,"CEFET-BA - Centro Federal de Educação Tecnológica da Bahia - Mec",2,5
+60,"CEITEC - Centro Nacional de Tecnologia Eletrônica Avançada S.a",3,NULL
+61,"Cenciar - Centro de Controle Interno da Aeronáutica",3,NULL
+62,"CENP - Centro Nacional de Primatas",3,NULL
+63,"Centrais Elétricas do Norte do Brasil S.A.",3,NULL
+64,"Centro de Pesquisas de Energia Elétrica",3,NULL
+65,"Centro de Solidariedade São José",1,4
+66,"CF/RR7ªBIS - Comando de Fronteira-Roraima e 7º Batalhão de Infantaria de Selva",3,NULL
+67,"CFC - Conselho Federal de Contabilidade",3,NULL
+68,"CGABEG - Casa Gerontológica da Aeronáutica - Brigadeiro Eduardo Gomes",3,NULL
+69,"CGGP/MC - Coordenação-Geral de Gestão de Pessoas - Mc",3,NULL
+70,"CGRL/SAA - Coordenação-Geral de Recursos Logísticos - MT",3,NULL
+71,"CGTT - Conselho Geral da Tribo Tikuna",4,4
+72,"CGU - Controladoria-Geral da União",3,NULL
+73,"CHESF - Companhia Hidro Elétrica do São Francisco",3,NULL
+74,"CMF - Colégio Militar de Fortaleza",3,NULL
+75,"CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico",3,NULL
+76,"Codevasf - Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba",3,NULL
+77,"Colog/CE - Comando Logístico do Exército",3,NULL
+78,"Companhia Brasileira de Trens Urbanos",5,NULL
+79,"Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil",4,NULL
+80,"Companhia Docas do Rio de Janeiro",2,19
+81,"CONDER - Companhia de Desenvolvimento Urbano do Estado da Bahia",2,5
+82,"Confederacao Brasileira de Desportos Para Cegos Cbdc",3,NULL
+83,"Conselho do Povo Indígena Ingaricó",2,23
+84,"COOPHRS - Cooperativa de Habitação da Região Sul",4,NULL
+85,"Coord. de Gestão Orçamentária e Financeira do Cnpq - Mct",3,NULL
+86,"Coordenadoria Municipal de Defesa Civil - Comdec",1,NULL
+87,"Coordenadoria Municipal de Protecao e Defesa Civil - Compdec",1,NULL
+88,"Cootraron - Cooperativa de Trabalho Agro-Ambiental de Rondônia",2,22
+89,"CO-RIO - Comitê Organizador dos Jogos Pan-Americanos Rio - 2007 S/C Ltda - Me",1,19
+90,"COVEN/MTur - Coordenação-Geral de Convênio - Mtur",3,NULL
+91,"CRA-CE - Conselho Regional de Administração do Ceará",2,6
+92,"Crea/ES - Conselho Regional de Engenharia e Agronomia do Estado do Espírito Santo",2,8
+93,"Crea/RS - Conselho Regional de Engenharia e Agronomia do Estado do Rio Grande do Sul",2,21
+94,"CRF-CE - Conselho Regional de Farmácia do Estado do Ceará",2,6
+95,"CRMV-PE - Conselho Regional de Medicina Veterinária do Estado de Pernambuco",2,17
+96,"CRO/DF - Conselho Regional de Odontologia do Distrito Federal",2,7
+97,"CRO/RJ - Conselho Regional de Odontologia do Rio de Janeiro",2,19
+98,"CRO-2ªRM - Comissão Regional de Obras da 2ª Região Militar",4,NULL
+99,"DALOG - Diretoria de Administração e Logística",3,NULL
+100,"DCT/CE - Departamento de Ciência e Tecnologia do Exército",3,NULL
+101,"DEC/CE - Departamento de Engenharia e Construção do Exército",3,NULL
+102,"Decea - Departamento de Controle do Espaço Aéreo da Aeronáutica",3,NULL
+103,"Departamento Regional do Sesi No Estado de Minas Gerais",2,13
+104,"DEPCN - Departamento do Programa Calha Norte",3,NULL
+105,"Depen - Departamento Penitenciário Nacional - Mj",3,NULL
+106,"Diocese de Roraima",2,23
+107,"Dirsa - Diretoria de Saúde da Aeronáutica",3,NULL
+108,"Distrito de Irrigação da Baixada Ocidental Maranhense",4,NULL
+109,"DITALPI - Distrito de Irrigação Tabuleiros Litorâneos do Piauí",4,NULL
+110,"DNIT - Departamento Nacional de Infraestrutura de Transportes",3,NULL
+111,"DNOCS - Departamento Nacional de Obras Contra As Secas",3,NULL
+112,"DN-PP - Diretório Nacional do Pp - Je",3,NULL
+113,"DPRF - Departamento de Polícia Rodoviária Federal",3,NULL
+114,"DR PSDB/MA - Diretório Regional do Psdb/MA - Je",2,10
+115,"ECT - Empresa Brasileira de Correios e Telegrafos - Ect",3,NULL
+116,"ECT-AM-SILVES - Empresa Brasileira de Correios e Telegrafos - Ect - AC Silves",1,4
+117,"ECT-SE-MG - Empresa Brasileira de Correios e Telegrafos - Ect - Superintendência Estadual de Operações Minas Gerais",2,13
+118,"ECT-SE-MT - Empresa Brasileira de Correios e Telegrafos - Ect - Superintendência Estadual de Operações Mato Grosso",2,11
+119,"ECT-SE-PB - Empresa Brasileira de Correios e Telegrafos - Ect - Superintendência Estadual de Operações Na Paraíba",2,15
+120,"ECT-TO-Rio Sono - Empresa Brasileira de Correios e Telegrafos - Ect - AC Rio Sono/TO",1,27
+121,"Eletroacre - Companhia de Eletricidade do Acre (privatizada)",2,1
+122,"Eletrobras - Est Uni - Centrais Elétricas Brasileiras S.A. - Eletrobras Estabelecimentos Unificados",3,NULL
+123,"EMBRATUR - Instituto Brasileiro de Turismo",3,NULL
+124,"Empresa Brasileira de Correios e Telegrafos - Ect - Diretoria Regional No Espírito Santo - Dr/Es(extinta)",2,8
+125,"Empresa Brasileira de Correios e Telegrafos - Ect - Diretoria Regional No Pará - Dr/Pa(extinta)",2,14
+126,"Empresa Brasileira de Infra-Estrutura Aeroportuária - Superintendência Regional do Nordeste - Md",4,NULL
+127,"Empresa Brasileira de Pesquisa Agropecuária",3,NULL
+128,"EOG/AC - Entidades/Órgãos do Governo do Estado do Acre",2,1
+129,"EOG/AL - Entidades/Órgãos do Governo do Estado de Alagoas",2,2
+130,"EOG/AM - Entidades/Órgãos do Governo do Estado do Amazonas",2,4
+131,"EOG/AP - Entidades/Órgãos do Governo do Estado do Amapá",2,3
+132,"EOG/BA - Entidades/Órgãos do Governo do Estado da Bahia",2,5
+133,"EOG/CE - Entidades/Órgãos do Governo do Estado do Ceará",2,6
+134,"EOG/DF - Entidades/Órgãos do Governo do Distrito Federal",2,7
+135,"EOG/ES - Entidades/Órgãos do Governo do Estado do Espírito Santo",2,8
+136,"EOG/GO - Entidades/Órgãos do Governo do Estado de Goiás",2,9
+137,"EOG/MA - Entidades/Órgãos do Governo do Estado do Maranhão",2,10
+138,"EOG/MG - Entidades/Órgãos do Governo do Estado de Minas Gerais",2,13
+139,"EOG/MS - Entidades/Órgãos do Governo do Estado do Mato Grosso do Sul",2,12
+140,"EOG/MT - Entidades/Órgãos do Governo do Estado de Mato Grosso",2,11
+141,"EOG/PA - Entidades/Órgãos do Governo do Estado do Pará",2,14
+142,"EOG/PB - Entidades/Órgãos do Governo do Estado da Paraíba",2,15
+143,"EOG/PE - Entidades/Órgãos do Governo do Estado de Pernambuco",2,17
+144,"EOG/PI - Entidades/Órgãos do Governo do Estado do Piauí",2,18
+145,"EOG/PR - Entidades/Órgãos do Governo do Estado do Paraná",2,16
+146,"EOG/RJ - Entidades/Órgãos do Governo do Estado do Rio de Janeiro",2,19
+147,"EOG/RN - Entidades/Órgãos do Governo do Estado do Rio Grande do Norte",2,20
+148,"EOG/RO - Entidades/Órgãos do Governo do Estado de Rondônia",2,22
+149,"EOG/RR - Entidades/Órgãos do Governo do Estado de Roraima",2,23
+150,"EOG/RS - Entidades/Órgãos do Governo do Estado do Rio Grande do Sul",2,21
+151,"EOG/SC - Entidades/Órgãos do Governo do Estado de Santa Catarina",2,24
+152,"EOG/SE - Entidades/Órgãos do Governo do Estado de Sergipe",2,26
+153,"EOG/SP - Entidades e Órgãos do Governo do Estado de São Paulo",2,25
+154,"EOG/TO - Entidades/Órgãos do Governo do Estado de Tocantins",2,27
+155,"ESG - Escola Superior de Guerra",3,NULL
+156,"ESTADUAIS - Órgãos e Entidades Estaduais (vinculador)",2,NULL
+157,"FAT - Fundo de Amparo Ao Trabalhador",3,NULL
+158,"FCP - Fundação Cultural Palmares",3,NULL
+159,"FETAG - RR - Federacao dos Trabahadores Na Agricultura do Estado de Roraima",2,23
+160,"FINEP - Financiadora de Estudos e Projetos",3,NULL
+161,"FNAS - Fundo Nacional de Assistência Social",3,NULL
+162,"FNDCT - Fundo Nacional de Desenvolvimento Científico e Tecnológico",3,NULL
+163,"FNDE - Fundo Nacional de Desenvolvimento da Educação",3,NULL
+164,"FNMA - Fundo Nacional do Meio Ambiente",3,NULL
+165,"FNMA/CEF-MMA - Fundo Nacional do Meio Ambiente - Cef/Mma",3,NULL
+166,"FNS - Fundo Nacional de Saúde - MS",3,NULL
+167,"Funasa - Fundação Nacional de Saúde",3,NULL
+168,"FUNASA/DF - Funasa - Superintendência Estadual/DF (extinta)",2,7
+169,"Fundação de Apoio a Pesquisa e Extensão - Ufpb - Mec",2,15
+170,"Fundação de Apoio Ao Desenvolvimento da Ufpe - Mec",2,17
+171,"Fundacao de Turismo de Mato Grosso do Sul",2,12
+172,"Fundacao Delmiro Gouveia",3,NULL
+173,"Fundação Getúlio Vargas",3,NULL
+174,"Fundação Universidade de Brasília",2,7
+175,"Fundação Universidade Federal de Mato Grosso do Sul",3,12
+176,"Fundação Universidade Federal de Rondônia",3,22
+177,"Fundacao Vingt Rosado",1,20
+178,"Fundo de Saude do Municipio de Porto Rico do Maranhao",1,10
+179,"Fundo Especial de Assistência Financeira Aos Partidos Políticos - Fundo Partidário",3,NULL
+180,"Fundo Municipal de Saude",1,NULL
+181,"Fundo Municipal de Saude de Belo Jardim - PE",1,17
+182,"Fundo Municipal de Saude de Borebi-SP",1,25
+183,"Fundo Municipal de Saude de Capinzal do Norte",1,10
+184,"Fundo Municipal de Saude de Guajara-Mirim - RO",1,22
+185,"Fundo Municipal de Saude de Ilheus",1,19
+186,"Fundo Municipal de Saude de Paraiso do Tocantins",1,27
+187,"Fundo Municipal de Saude de Pinheiro/MA",1,10
+188,"Fundo Municipal de Saude de Presidente Janio Quadros",1,5
+189,"Fundo Municipal de Saude de Sao Bernardo",1,25
+190,"Fundo Municipal de Saude de Uruacu",1,9
+191,"Fundo Municipal de Saude de Uruara",1,14
+192,"Fundo Municipal de Saude do Município de Sete Lagoas - MG",1,13
+193,"Fundo Nacional da Cultura - Divisão de Execução Orçamentária do Fnc",3,NULL
+194,"Furnas Centrais Elétricas S.A.",3,NULL
+195,"Genius Instituto de Tecnologia",3,NULL
+196,"Gerência Executiva do Inss - Anápolis/GO - Inss/Mps",2,9
+197,"Gerência Executiva do Inss - Aracaju/SE - Inss/Mps",2,26
+198,"Gerência Executiva do Inss - Belém/PA - Inss/Mps",2,14
+199,"Gerência Executiva do Inss - Campinas/SP - Inss/Mps",2,25
+200,"Gerência Executiva do Inss - Campo Grande/MS - Inss/Mps",2,12
+201,"Gerência Executiva do Inss - Campos dos Goytacazes/RJ - Inss/Mps",2,19
+202,"Gerência Executiva do Inss - Caruaru/PE - Inss/Mps",2,17
+203,"Gerência Executiva do Inss - Cascavel/PR - Inss/Mps",2,16
+204,"Gerência Executiva do Inss - Curitiba/PR - Inss/Mps",2,16
+205,"Gerência Executiva do Inss - Divinópolis/MG - Inss/Mps",2,13
+206,"Gerência Executiva do Inss - Feira de Santana/BA - Inss/Mps",2,5
+207,"Gerência Executiva do Inss - Florianópolis/SC - Inss/Mps",2,24
+208,"Gerência Executiva do Inss - Garanhuns/PE - Inss/Mps",2,17
+209,"Gerência Executiva do Inss - Governador Valadares/MG - Inss/Mps",2,13
+210,"Gerência Executiva do Inss - Juazeiro do Norte/CE - Inss/Mps",2,6
+211,"Gerência Executiva do Inss - Jundiaí/SP - Inss/Mps",2,25
+212,"Gerência Executiva do Inss - Londrina/PR - Inss/Mps",2,2
+213,"Gerência Executiva do Inss - Maceió/AL - Inss/Mps",2,2
+214,"Gerência Executiva do Inss - Niterói/RJ - Inss/Mps",2,19
+215,"Gerência Executiva do Inss - Petrolina/PE - Inss/Mps",2,17
+216,"Gerência Executiva do Inss - Piracicaba/SP - Inss/Mps",2,25
+217,"Gerência Executiva do Inss - Presidente Prudente/SP - Inss/Mps",2,25
+218,"Gerência Executiva do Inss - Ribeirão Preto/SP - Inss/Mps",2,25
+219,"Gerência Executiva do Inss - Rio de Janeiro-Centro/RJ - Inss/Mps",2,19
+220,"Gerência Executiva do Inss - Santos/SP - Inss/Mps",2,25
+221,"Gerência Executiva do Inss - São Paulo Centro/SP - Inss/Mps",2,25
+222,"Gerência Executiva do Inss - Sorocaba/SP - Inss/Mps",2,25
+223,"Gerência Executiva do Inss - Volta Redonda/RJ - Inss/Mps",2,19
+224,"Gerência Executiva do Inss Em São Paulo/Sul",2,25
+225,"Gerência Executiva do Inss No Rio de Janeiro/Norte",2,19
+226,"GHC - Hospital Nossa Senhora da Conceição S.A.",2,21
+227,"GM-MAPA - Ministerio da Agricultura, Pecuária e Abastecimento - Gabinete do Ministro",3,NULL
+228,"Governo do Estado da Paraíba",2,15
+229,"Governo do Estado de Alagoas",2,2
+230,"Governo do Estado de Pernambuco",2,17
+231,"Governo do Estado de Rondônia",2,22
+232,"Governo do Estado de Roraima",2,23
+233,"Governo do Estado de Sergipe",2,26
+234,"Governo do Estado do Amapá",2,3
+235,"Governo do Estado do Amazonas",2,4
+236,"Governo do Estado do Maranhão",2,10
+237,"Governo do Estado do Piauí",2,18
+238,"Governo do Estado do Rio Grande do Norte",2,20
+239,"Governo do Estado do Rio Grande do Sul
+",2,21
+240,"Governo do Estado do Tocantins",2,27
+241,"HFA - Hospital das Forças Armadas",3,NULL
+242,"HFA - Hospital Federal do Andaraí",3,NULL
+243,"HFI - Hospital Federal Ipanema",3,NULL
+244,"HFSE - Hospital Federal dos Servidores do Estado",3,NULL
+245,"HOSP.CLIN.-UFPR - Hospital de Clinicas da Ufpr - Ebserh",2,16
+246,"IAST - Instituto Amazonico de Desenvolvimento Social, Amparo a Pesquisa e a Tecnologia - Saber da Terra",3,NULL
+247,"Ibama - Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis",3,NULL
+248,"IBAMA/DEFIN/DF - Ibama - Defin/DF - Mma",3,NULL
+249,"IBDS - Instituto Brasileiro Pelo Desenvolvimento Sanitario",3,NULL
+250,"IDARON - Agência de Defesa Sanitária Agrosilvopastoril do Estado de Rondônia - Idaron",2,22
+251,"IFMS - Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul",3,12
+252,"IME - Instituto Militar de Engenharia",3,NULL
+253,"INC - Instituto Nacional de Cardiologia",3,NULL
+254,"INCRA - Instituto Nacional de Colonização e Reforma Agrária",3,NULL
+255,"INCRA/SR-07/RJ - Incra - Superint. Regional/RJ (excluída)",2,19
+256,"Incra/SR-26/TO - Incra - Superint. Regional/TO (excluída)",2,27
+257,"Infraero - Empresa Brasileira de Infraestrutura Aeroportuária",3,NULL
+258,"Inmetro - Instituto Nacional de Metrologia, Qualidade e Tecnologia",3,NULL
+259,"Inpa - Instituto Nacional de Pesquisas da Amazônia",3,NULL
+260,"Inpi - Instituto Nacional da Propriedade Industrial",3,NULL
+261,"INSS - Instituto Nacional do Seguro Social",3,NULL
+262,"Instituto de Desenvolvimento Cientifico e Tecnologico D",3,NULL
+263,"Into - Instituto Nacional de Traumatologia e Ortopedia Jamil Hadad",3,NULL
+264,"IPAD/PE - Instituto de Planejamento e Apoio Ao Desenvolvimento Tecnológico e Científico",2,17
+265,"Iphan - Instituto do Patrimônio Histórico e Artístico Nacional - Iphan",3,NULL
+266,"ISAE - Instituto Superior de Administração e Economia",3,NULL
+267,"ITEC - Instituto de Tecnologia, Pesquisa e Cultura da Amazônia",3,NULL
+268,"IV CINDACTA - 4º Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo - Cindacta",3,NULL
+269,"IV COMAR - 4º Comando Aéreo Regional",3,NULL
+270,"MCIDADANIA - Ministério da Cidadania",3,NULL
+271,"MCTIC - Ministério da Ciência, Tecnologia, Inovações e Comunicações (extinto)",3,NULL
+272,"MDA - Ministério do Desenvolvimento Agrário (extinta)",3,NULL
+273,"MDR - Ministério do Desenvolvimento Regional",3,NULL
+274,"MEC - Ministério da Educação",3,NULL
+275,"MECON - Ministério da Economia",3,NULL
+276,"MinC - Ministério da Cultura (extinta)",3,NULL
+277,"MINFRA - Ministério da InfraestruturaSPA - Autoridade Portuaria de Santos S.a",3,NULL
+278,"MJ - Ministério da Justiça (extinta)",3,NULL
+280,"MJSP - Ministério da Justiça e Segurança Pública",3,NULL
+281,"MMFDH - Ministério da Mulher, da Família e dos Direitos Humanos",3,NULL
+282,"MTE - Ministério do Trabalho e Emprego (extinto)",3,NULL
+283,"MUNICIPAIS - Órgãos e Entidades Municipais (vinculador)",1,NULL
+284,"Municipio de Codajas",1,4
+285,"Municipio de Lagoa Santa - GO",1,9
+286,"Município de Mata Roma",1,10
+287,"Municipio de Picos - Secretaria de Saude",1,18
+288,"Municipio de Vera Mendes - Secretaria de Saude e Acao Comunitaria",1,18
+289,"PAGL - Prefeitura de Aeronáutica do Galeão",2,19
+290,"PE-MAPA - Ministério da Agricultura, Pecuária e Abastecimento",3,NULL
+291,"PE-MAPA - Ministério da Agricultura, Pecuária e Abastecimento
+",3,NULL
+292,"PE-MD - Ministério da Defesa",3,NULL
+293,"PE-MD/CA - Comando da Aeronáutica",3,NULL
+294,"PE-MD/CE - Comando do Exército",3,NULL
+295,"PE-MD/CM - Comando da Marinha",3,NULL
+296,"PE-MF - Ministério da Fazenda (extinta)",3,NULL
+297,"PE-MI - Ministério da Integração Nacional (extinta)",3,NULL
+298,"PE-MMA - Ministério do Meio Ambiente",3,NULL
+299,"PE-MPA - Ministério da Pesca e Aquicultura (extinta)",3,NULL
+300,"PE-MRE - Ministério das Relações Exteriores",3,NULL
+301,"PE-MS - Ministério da Saúde",3,NULL
+302,"PE-PR - Presidência da República",3,NULL
+303,"Petróleo Brasileiro S.A.",3,NULL
+304,"PGFN - Procuradoria-Geral da Fazenda Nacional",3,NULL
+305,"Piaui Secretaria de Saude - Laboratorio Central de Saude Publica Dr Costa Alvarenga",2,18
+306,"Prefeitura Municipal de Abadia de Goiás - GO",1,9
+307,"Prefeitura Municipal de Abadiânia - GO",1,9
+308,"Prefeitura Municipal de Abaeté - MG",1,13
+309,"Prefeitura Municipal de Abaetetuba - PA",1,14
+310,"Prefeitura Municipal de Abaiara - CE",1,6
+311,"Prefeitura Municipal de Abaíra - BA",1,5
+312,"Prefeitura Municipal de Abatiá - PR",1,16
+313,"Prefeitura Municipal de Abel Figueiredo - PA",1,14
+314,"Prefeitura Municipal de Abre Campo - MG",1,13
+315,"Prefeitura Municipal de Açailândia - MA",1,10
+316,"Prefeitura Municipal de Acajutiba - BA",1,5
+317,"Prefeitura Municipal de Acará - PA",1,14
+318,"Prefeitura Municipal de Acarapé - CE",1,6
+319,"Prefeitura Municipal de Acaraú - CE",1,6
+320,"Prefeitura Municipal de Acauã - PI",1,18
+321,"Prefeitura Municipal de Acopiara - CE",1,6
+322,"Prefeitura Municipal de Acrelândia - AC",1,1
+323,"Prefeitura Municipal de Afogados da Ingazeira - PE",1,17
+324,"Prefeitura Municipal de Afonso Cunha - MA",1,10
+325,"Prefeitura Municipal de Afrânio - PE",1,17
+326,"Prefeitura Municipal de Afuá - PA",1,14
+327,"Prefeitura Municipal de Agrolândia - SC",1,24
+328,"Prefeitura Municipal de Água Azul do Norte - PA",1,14
+329,"Prefeitura Municipal de Água Branca - AL",1,2
+330,"Prefeitura Municipal de Água Branca - PB",1,15
+331,"Prefeitura Municipal de Água Branca - PI",1,18
+332,"Prefeitura Municipal de Água Doce do Maranhão - MA",1,10
+333,"Prefeitura Municipal de Água Fria de Goiás - GO",1,9
+334,"Prefeitura Municipal de Água Preta - PE",1,17
+335,"Prefeitura Municipal de Águas Belas - PE",1,17
+336,"Prefeitura Municipal de Águas Lindas de Goiás - GO",1,9
+337,"Prefeitura Municipal de Águas Vermelhas - MG",1,13
+338,"Prefeitura Municipal de Aiquara - BA",1,5
+339,"Prefeitura Municipal de Aiuaba - CE",1,6
+340,"Prefeitura Municipal de Alagoa Grande - PB",1,15
+341,"Prefeitura Municipal de Alagoinha - PE",1,17
+342,"Prefeitura Municipal de Alagoinhas - BA",1,5
+343,"Prefeitura Municipal de Alcântara - MA",1,10
+344,"Prefeitura Municipal de Aldeias Altas - MA",1,10
+345,"Prefeitura Municipal de Alegre - ES",1,8
+346,"Prefeitura Municipal de Alenquer - PA",1,14
+347,"Prefeitura Municipal de Alexandria - RN",1,20
+348,"Prefeitura Municipal de Alexânia - GO",1,9
+349,"Prefeitura Municipal de Alfenas - MG",1,13
+350,"Prefeitura Municipal de Algodão de Jandaíra - PB",1,15
+351,"Prefeitura Municipal de Aliança - PE",1,17
+352,"Prefeitura Municipal de Aliança do Tocantins - TO",1,27
+353,"Prefeitura Municipal de Almadina - BA",1,5
+354,"Prefeitura Municipal de Almeirim - PA",1,14
+355,"Prefeitura Municipal de Almenara - MG",1,13
+356,"Prefeitura Municipal de Alpercata - MG",1,13
+357,"Prefeitura Municipal de Alpinópolis - MG",1,13
+358,"Prefeitura Municipal de Alta Floresta - MT",1,11
+359,"Prefeitura Municipal de Altair - SP",1,25
+360,"Prefeitura Municipal de Altamira - PA",1,14
+361,"Prefeitura Municipal de Altamira do Maranhão - MA",1,10
+362,"Prefeitura Municipal de Alto Alegre - RR",1,23
+363,"Prefeitura Municipal de Alto Alegre do Maranhão - MA",1,10
+364,"Prefeitura Municipal de Alto Alegre do Pindaré - MA",1,10
+365,"Prefeitura Municipal de Alto Longá - PI",1,18
+366,"Prefeitura Municipal de Alto Paraíso - RO",1,22
+367,"Prefeitura Municipal de Alto Paraíso de Goiás - GO",1,9
+368,"Prefeitura Municipal de Alto Piquiri - PR",1,16
+369,"Prefeitura Municipal de Alto Rio Novo - ES",1,8
+370,"Prefeitura Municipal de Alto Santo - CE",1,6
+371,"Prefeitura Municipal de Altos - PI",1,18
+372,"Prefeitura Municipal de Alvarães - AM",1,4
+373,"Prefeitura Municipal de Álvares Florence - SP",1,25
+374,"Prefeitura Municipal de Álvaro de Carvalho - SP",1,25
+375,"Prefeitura Municipal de Alvinópolis - MG",1,13
+376,"Prefeitura Municipal de Alvorada D'oeste - RO",1,22
+377,"Prefeitura Municipal de Amajari - RR",1,23
+378,"Prefeitura Municipal de Amambaí - MS",1,12
+379,"Prefeitura Municipal de Amapá do Maranhão - MA",1,10
+380,"Prefeitura Municipal de Amargosa - BA",1,5
+381,"Prefeitura Municipal de Amaturá - AM",1,4
+382,"Prefeitura Municipal de Amélia Rodrigues - BA",1,5
+383,"Prefeitura Municipal de Americana - SP",1,25
+384,"Prefeitura Municipal de Américo Brasiliense - SP",1,25
+385,"Prefeitura Municipal de Américo de Campos - SP",1,25
+386,"Prefeitura Municipal de Ametista do Sul - RS",1,21
+387,"Prefeitura Municipal de Amontada - CE",1,6
+388,"Prefeitura Municipal de Anagé - BA",1,5
+389,"Prefeitura Municipal de Anajás - PA",1,14
+390,"Prefeitura Municipal de Anajatuba - MA",1,10
+391,"Prefeitura Municipal de Ananás - TO",1,27
+392,"Prefeitura Municipal de Ananindeua - PA",1,14
+393,"Prefeitura Municipal de Anapu - PA",1,14
+394,"Prefeitura Municipal de Anapurus - MA",1,10
+395,"Prefeitura Municipal de Anastácio - MS",1,12
+396,"Prefeitura Municipal de Anaurilândia - MS",1,12
+397,"Prefeitura Municipal de Andorinha - BA",1,5
+398,"Prefeitura Municipal de Angelândia - MG",1,13
+399,"Prefeitura Municipal de Angelim - PE",1,17
+400,"Prefeitura Municipal de Angical - BA",1,5
+401,"Prefeitura Municipal de Anori - AM",1,4
+402,"Prefeitura Municipal de Antonina - PR",1,16
+403,"Prefeitura Municipal de Antonina do Norte - CE",1,6
+404,"Prefeitura Municipal de Antônio Cardoso - BA",1,5
+405,"Prefeitura Municipal de Antônio Martins - RN",1,20
+406,"Prefeitura Municipal de Aparecida de Goiânia - GO",1,9
+407,"Prefeitura Municipal de Apiaí - SP",1,25
+408,"Prefeitura Municipal de Apicum-Açu - MA",1,10
+409,"Prefeitura Municipal de Apodi - RN",1,20
+410,"Prefeitura Municipal de Apuí - AM",1,4
+411,"Prefeitura Municipal de Apuiarés - CE",1,6
+412,"Prefeitura Municipal de Aquidabã - SE",1,26
+413,"Prefeitura Municipal de Aquidauana - MS",1,12
+414,"Prefeitura Municipal de Aquiraz - CE",1,6
+415,"Prefeitura Municipal de Araçagi - PB",1,15
+416,"Prefeitura Municipal de Aracaju - SE",1,26
+417,"Prefeitura Municipal de Araci - BA",1,5
+418,"Prefeitura Municipal de Aracoiaba - CE",1,6
+419,"Prefeitura Municipal de Araçoiaba - PE",1,17
+420,"Prefeitura Municipal de Araçoiaba da Serra - SP",1,25
+421,"Prefeitura Municipal de Araçuaí - MG",1,13
+422,"Prefeitura Municipal de Araguacema - TO",1,27
+423,"Prefeitura Municipal de Araguaçu - TO",1,27
+424,"Prefeitura Municipal de Araguaína - TO",1,27
+425,"Prefeitura Municipal de Araguainha - MT",1,11
+426,"Prefeitura Municipal de Araguanã - MA",1,10
+427,"Prefeitura Municipal de Araguanã - TO",1,27
+428,"Prefeitura Municipal de Araguapaz - GO",1,9
+429,"Prefeitura Municipal de Araguatins - TO",1,27
+430,"Prefeitura Municipal de Araioses - MA",1,10
+431,"Prefeitura Municipal de Aramari - BA",1,5
+432,"Prefeitura Municipal de Arame - MA",1,10
+433,"Prefeitura Municipal de Arapoema - TO",1,27
+434,"Prefeitura Municipal de Araponga - MG",1,13
+435,"Prefeitura Municipal de Araporã - MG",1,13
+436,"Prefeitura Municipal de Araputanga - MT",1,11
+437,"Prefeitura Municipal de Arara - PB",1,15
+438,"Prefeitura Municipal de Ararendá - CE",1,6
+439,"Prefeitura Municipal de Arari - MA",1,10
+440,"Prefeitura Municipal de Araripina - PE",1,17
+441,"Prefeitura Municipal de Araruna - PB",1,15
+442,"Prefeitura Municipal de Arataca - BA",1,5
+443,"Prefeitura Municipal de Arauá - SE",1,26
+444,"Prefeitura Municipal de Areal - RJ",1,19
+445,"Prefeitura Municipal de Arês - RN",1,20
+446,"Prefeitura Municipal de Argirita - MG",1,13
+447,"Prefeitura Municipal de Aricanduva - MG",1,13
+448,"Prefeitura Municipal de Arinos - MG",1,13
+449,"Prefeitura Municipal de Aroeiras - PB",1,15
+450,"Prefeitura Municipal de Arroio Grande - RS",1,21
+451,"Prefeitura Municipal de Assaré - CE",1,6
+452,"Prefeitura Municipal de Assis Brasil - AC",1,1
+453,"Prefeitura Municipal de Assu - RN",1,20
+454,"Prefeitura Municipal de Assunção do Piauí - PI",1,18
+455,"Prefeitura Municipal de Astorga - PR",1,16
+456,"Prefeitura Municipal de Atalaia - AL",1,2
+457,"Prefeitura Municipal de Atalaia do Norte - AM",1,4
+458,"Prefeitura Municipal de Augusto Corrêa - PA",1,14
+459,"Prefeitura Municipal de Augusto Severo",1,20
+460,"Prefeitura Municipal de Aurelino Leal - BA",1,5
+461,"Prefeitura Municipal de Auriflama - SP",1,25
+462,"Prefeitura Municipal de Aurora do Tocantins - TO",1,27
+463,"Prefeitura Municipal de Autazes - AM",1,4
+464,"Prefeitura Municipal de Aveiro - PA",1,14
+465,"Prefeitura Municipal de Avelino Lopes - PI",1,18
+466,"Prefeitura Municipal de Axixá - MA",1,10
+467,"Prefeitura Municipal de Axixá do Tocantins - TO",1,27
+468,"Prefeitura Municipal de Bacabal - MA",1,10
+469,"Prefeitura Municipal de Bacuri - MA",1,10
+470,"Prefeitura Municipal de Bady Bassitt - SP",1,25
+471,"Prefeitura Municipal de Bagé - RS",1,21
+472,"Prefeitura Municipal de Bagre - PA",1,14
+473,"Prefeitura Municipal de Baianópolis - BA",1,5
+474,"Prefeitura Municipal de Baião - PA",1,14
+475,"Prefeitura Municipal de Baixa Grande do Ribeiro - PI",1,18
+476,"Prefeitura Municipal de Balbinos - SP",1,25
+477,"Prefeitura Municipal de Baliza - GO",1,9
+478,"Prefeitura Municipal de Balneário Camboriú - SC",1,24
+479,"Prefeitura Municipal de Balsas - MA",1,10
+480,"Prefeitura Municipal de Bandeirantes do Tocantins - TO",1,27
+481,"Prefeitura Municipal de Baraúna - PB",1,15
+482,"Prefeitura Municipal de Baraúna - RN",1,20
+483,"Prefeitura Municipal de Barcarena - PA",1,14
+484,"Prefeitura Municipal de Barcelos - AM",1,4
+485,"Prefeitura Municipal de Barra Bonita - SP",1,25
+486,"Prefeitura Municipal de Barra de Santo Antônio - AL",1,2
+487,"Prefeitura Municipal de Barra de São Francisco - ES",1,8
+488,"Prefeitura Municipal de Barra de São Miguel - AL",1,2
+489,"Prefeitura Municipal de Barra de São Miguel - PB",1,15
+490,"Prefeitura Municipal de Barra do Chapéu - SP",1,25
+491,"Prefeitura Municipal de Barra do Choça - BA",1,5
+492,"Prefeitura Municipal de Barra do Corda - MA",1,10
+493,"Prefeitura Municipal de Barra do Ouro - TO",1,27
+494,"Prefeitura Municipal de Barra do Ribeiro - RS",1,21
+495,"Prefeitura Municipal de Barra do Turvo - SP",1,25
+496,"Prefeitura Municipal de Barra dos Coqueiros - SE",1,26
+497,"Prefeitura Municipal de Barra Longa - MG",1,13
+498,"Prefeitura Municipal de Barreiras - BA",1,5
+499,"Prefeitura Municipal de Barreirinha - AM",1,4
+500,"Prefeitura Municipal de Barreirinhas - MA",1,10
+501,"Prefeitura Municipal de Barreiros - PE",1,17
+502,"Prefeitura Municipal de Barretos - SP",1,25
+503,"Prefeitura Municipal de Barro - CE",1,6
+504,"Prefeitura Municipal de Barro Alto - BA",1,5
+505,"Prefeitura Municipal de Barro Duro - PI",1,18
+506,"Prefeitura Municipal de Barro Preto",1,5
+507,"Prefeitura Municipal de Barroquinha - CE",1,6
+508,"Prefeitura Municipal de Batalha - PI",1,18
+509,"Prefeitura Municipal de Baturité - CE",1,6
+510,"Prefeitura Municipal de Bayeux - PB",1,15
+511,"Prefeitura Municipal de Beberibe - CE",1,6
+512,"Prefeitura Municipal de Bela Cruz - CE",1,6
+513,"Prefeitura Municipal de Bela Vista do Maranhão - MA",1,10
+514,"Prefeitura Municipal de Bela Vista do Paraíso - PR",1,16
+515,"Prefeitura Municipal de Belágua - MA",1,10
+516,"Prefeitura Municipal de Belém - AL",1,2
+517,"Prefeitura Municipal de Belém - PA",1,14
+518,"Prefeitura Municipal de Belém de Maria - PE",1,17
+519,"Prefeitura Municipal de Belém de São Francisco - PE",1,17
+520,"Prefeitura Municipal de Belém do Brejo do Cruz - PB",1,15
+521,"Prefeitura Municipal de Belford Roxo - RJ",1,19
+522,"Prefeitura Municipal de Belo Campo - BA",1,5
+523,"Prefeitura Municipal de Belo Jardim - PE",1,17
+524,"Prefeitura Municipal de Belo Oriente - MG",1,13
+525,"Prefeitura Municipal de Belterra - PA",1,14
+526,"Prefeitura Municipal de Beneditinos - PI",1,18
+527,"Prefeitura Municipal de Benedito Leite - MA",1,10
+528,"Prefeitura Municipal de Benjamin Constant - AM",1,4
+529,"Prefeitura Municipal de Bento Fernandes - RN",1,20
+530,"Prefeitura Municipal de Bequimão - MA",1,10
+531,"Prefeitura Municipal de Bernardo do Mearim - MA",1,10
+532,"Prefeitura Municipal de Bernardo Sayão - TO",1,27
+533,"Prefeitura Municipal de Bertioga - SP",1,25
+534,"Prefeitura Municipal de Beruri - AM",1,4
+535,"Prefeitura Municipal de Betânia - PE",1,17
+536,"Prefeitura Municipal de Bezerros - PE",1,17
+537,"Prefeitura Municipal de Boa Nova - BA",1,5
+538,"Prefeitura Municipal de Boa Viagem - CE",1,6
+539,"Prefeitura Municipal de Boa Vista - RR",1,23
+540,"Prefeitura Municipal de Boa Vista do Ramos - AM",1,4
+541,"Prefeitura Municipal de Boca da Mata - AL",1,2
+542,"Prefeitura Municipal de Boca do Acre - AM",1,4
+543,"Prefeitura Municipal de Bocaina - PI",1,18
+544,"Prefeitura Municipal de Bocaiúva - MG",1,13
+545,"Prefeitura Municipal de Bodó - RN",1,20
+546,"Prefeitura Municipal de Bom Despacho - MG",1,13
+547,"Prefeitura Municipal de Bom Jardim - MA",1,10
+548,"Prefeitura Municipal de Bom Jardim - RJ",1,19
+549,"Prefeitura Municipal de Bom Jardim de Goiás - GO",1,9
+550,"Prefeitura Municipal de Bom Jesus - PI",1,18
+551,"Prefeitura Municipal de Bom Jesus da Lapa - BA",1,5
+552,"Prefeitura Municipal de Bom Jesus das Selvas - MA",1,10
+553,"Prefeitura Municipal de Bom Jesus de Goiás - GO",1,9
+554,"Prefeitura Municipal de Bom Jesus do Araguaia - MT",1,11
+555,"Prefeitura Municipal de Bom Jesus do Norte - ES",1,8
+556,"Prefeitura Municipal de Bom Jesus do Tocantins - PA",1,14
+557,"Prefeitura Municipal de Bom Jesus do Tocantins - TO",1,27
+558,"Prefeitura Municipal de Bom Jesus dos Perdões - SP",1,25
+559,"Prefeitura Municipal de Bom Lugar - MA",1,10
+560,"Prefeitura Municipal de Bom Sucesso - PR",1,16
+561,"Prefeitura Municipal de Bonfinópolis - GO",1,9
+562,"Prefeitura Municipal de Bonito - MS",1,12
+563,"Prefeitura Municipal de Bonito - PA",1,14
+564,"Prefeitura Municipal de Boqueirão - PB",1,15
+565,"Prefeitura Municipal de Boqueirão do Piauí - PI",1,18
+566,"Prefeitura Municipal de Borba - AM",1,4
+567,"Prefeitura Municipal de Borrazópolis - PR",1,16
+568,"Prefeitura Municipal de Botumirim - MG",1,13
+569,"Prefeitura Municipal de Botuporã - BA",1,5
+570,"Prefeitura Municipal de Bragança - PA",1,14
+571,"Prefeitura Municipal de Brasil Novo - PA",1,14
+572,"Prefeitura Municipal de Brasiléia - AC",1,1
+573,"Prefeitura Municipal de Braúna - SP",1,25
+574,"Prefeitura Municipal de Brejão - PE",1,17
+575,"Prefeitura Municipal de Brejetuba - ES",1,8
+576,"Prefeitura Municipal de Brejinho - RN",1,20
+577,"Prefeitura Municipal de Brejinho de Nazaré - TO",1,27
+578,"Prefeitura Municipal de Brejo - MA",1,10
+579,"Prefeitura Municipal de Brejo da Madre de Deus - PE",1,17
+580,"Prefeitura Municipal de Brejo de Areia - MA",1,10
+581,"Prefeitura Municipal de Brejo dos Santos - PB",1,15
+582,"Prefeitura Municipal de Brejo Grande - SE",1,26
+583,"Prefeitura Municipal de Brejo Grande do Araguaia - PA",1,14
+584,"Prefeitura Municipal de Brejo Santo - CE",1,6
+585,"Prefeitura Municipal de Brejões - BA",1,5
+586,"Prefeitura Municipal de Breves - PA",1,14
+587,"Prefeitura Municipal de Buerarema - BA",1,5
+588,"Prefeitura Municipal de Bugre - MG",1,13
+589,"Prefeitura Municipal de Buíque - PE",1,17
+590,"Prefeitura Municipal de Bujari - AC",1,1
+591,"Prefeitura Municipal de Bujaru - PA",1,14
+592,"Prefeitura Municipal de Buriti - MA",1,10
+593,"Prefeitura Municipal de Buriti Bravo - MA",1,10
+594,"Prefeitura Municipal de Buriti do Tocantins - TO",1,27
+595,"Prefeitura Municipal de Buriti dos Lopes - PI",1,18
+596,"Prefeitura Municipal de Buriticupu - MA",1,10
+597,"Prefeitura Municipal de Buritis - MG",1,13
+598,"Prefeitura Municipal de Buritis - RO",1,22
+599,"Prefeitura Municipal de Buritizeiro - MG",1,13
+600,"Prefeitura Municipal de Caapiranga - AM",1,4
+601,"Prefeitura Municipal de Caaporã - PB",1,15
+602,"Prefeitura Municipal de Caatiba - BA",1,5
+603,"Prefeitura Municipal de Cabaceiras do Paraguaçu - BA",1,5
+604,"Prefeitura Municipal de Cabeceiras - GO",1,9
+605,"Prefeitura Municipal de Cabeceiras do Piauí - PI",1,18
+606,"Prefeitura Municipal de Cabo de Santo Agostinho - PE",1,17
+607,"Prefeitura Municipal de Cabrobó - PE",1,17
+608,"Prefeitura Municipal de Cáceres - MT",1,11
+609,"Prefeitura Municipal de Cachoeira do Arari - PA",1,14
+610,"Prefeitura Municipal de Cachoeira dos Índios - PB",1,15
+611,"Prefeitura Municipal de Cachoeira Dourada - GO",1,9
+612,"Prefeitura Municipal de Cachoeira Grande - MA",1,10
+613,"Prefeitura Municipal de Cachoeirinha - TO",1,27
+614,"Prefeitura Municipal de Cacimba de Areia - PB",1,15
+615,"Prefeitura Municipal de Cacimba de Dentro - PB",1,15
+616,"Prefeitura Municipal de Cacimbas - PB",1,15
+617,"Prefeitura Municipal de Cacoal - RO",1,22
+618,"Prefeitura Municipal de Caetés - PE",1,17
+619,"Prefeitura Municipal de Caiçara - PB",1,15
+620,"Prefeitura Municipal de Caiçara do Norte - RN",1,20
+621,"Prefeitura Municipal de Caiçara do Rio do Vento - RN",1,20
+622,"Prefeitura Municipal de Cajapió - MA",1,10
+623,"Prefeitura Municipal de Cajazeiras - PB",1,15
+624,"Prefeitura Municipal de Cajazeirinhas - PB",1,15
+625,"Prefeitura Municipal de Cajueiro - AL",1,2
+626,"Prefeitura Municipal de Cajueiro da Praia - PI",1,18
+627,"Prefeitura Municipal de Calçado - PE",1,17
+628,"Prefeitura Municipal de Caldas - MG",1,13
+629,"Prefeitura Municipal de Caldas Brandão - PB",1,15
+630,"Prefeitura Municipal de Caldeirão Grande do Piauí - PI",1,18
+631,"Prefeitura Municipal de Calumbi - PE",1,17
+632,"Prefeitura Municipal de Camacan - BA",1,5
+633,"Prefeitura Municipal de Camamu - BA",1,5
+634,"Prefeitura Municipal de Camaragibe - PE",1,17
+635,"Prefeitura Municipal de Cambira - PR",1,16
+636,"Prefeitura Municipal de Cambuci - RJ",1,19
+637,"Prefeitura Municipal de Cametá - PA",1,14
+638,"Prefeitura Municipal de Camocim - CE",1,6
+639,"Prefeitura Municipal de Campestre - AL",1,2
+640,"Prefeitura Municipal de Campestre do Maranhão - MA",1,10
+641,"Prefeitura Municipal de Campina Grande - PB",1,15
+642,"Prefeitura Municipal de Campina Grande do Sul - PR",1,16
+643,"Prefeitura Municipal de Campinaçu - GO",1,9
+644,"Prefeitura Municipal de Campinorte - GO",1,9
+645,"Prefeitura Municipal de Campo Alegre - AL",1,2
+646,"Prefeitura Municipal de Campo Alegre de Goiás - GO",1,9
+647,"Prefeitura Municipal de Campo Alegre do Fidalgo - PI",1,18
+648,"Prefeitura Municipal de Campo Azul - MG",1,13
+649,"Prefeitura Municipal de Campo Erê - SC",1,24
+650,"Prefeitura Municipal de Campo Formoso - BA",1,5
+651,"Prefeitura Municipal de Campo Grande - AL",1,2
+652,"Prefeitura Municipal de Campo Grande - MS",1,12
+653,"Prefeitura Municipal de Campo Grande do Piauí - PI",1,18
+654,"Prefeitura Municipal de Campo Largo do Piauí - PI",1,18
+655,"Prefeitura Municipal de Campo Limpo de Goiás",1,9
+656,"Prefeitura Municipal de Campo Maior - PI",1,18
+657,"Prefeitura Municipal de Campo Mourão - PR",1,16
+658,"Prefeitura Municipal de Campo Novo de Rondônia - RO",1,22
+659,"Prefeitura Municipal de Campos Belos - GO",1,9
+660,"Prefeitura Municipal de Campos dos Goytacazes - RJ",1,19
+661,"Prefeitura Municipal de Campos Lindos - TO",1,27
+662,"Prefeitura Municipal de Campos Sales - CE",1,6
+663,"Prefeitura Municipal de Camutanga - PE",1,17
+664,"Prefeitura Municipal de Canaã dos Carajás - PA",1,14
+665,"Prefeitura Municipal de Canarana - BA",1,5
+666,"Prefeitura Municipal de Canarana - MT",1,11
+667,"Prefeitura Municipal de Canavieira - PI",1,18
+668,"Prefeitura Municipal de Canavieiras - BA",1,5
+669,"Prefeitura Municipal de Candeal - BA",1,5
+670,"Prefeitura Municipal de Cândido Godói - RS",1,21
+671,"Prefeitura Municipal de Cândido Mendes - MA",1,10
+672,"Prefeitura Municipal de Cândido Sales - BA",1,5
+673,"Prefeitura Municipal de Canguaretama - RN",1,20
+674,"Prefeitura Municipal de Canguçu - RS",1,21
+675,"Prefeitura Municipal de Canhotinho - PE",1,17
+676,"Prefeitura Municipal de Canindé - CE",1,6
+677,"Prefeitura Municipal de Canoas - RS",1,21
+678,"Prefeitura Municipal de Cansanção - BA",1,5
+679,"Prefeitura Municipal de Cantá - RR",1,23
+680,"Prefeitura Municipal de Cantanhede - MA",1,10
+681,"Prefeitura Municipal de Canudos - BA",1,5
+682,"Prefeitura Municipal de Canutama - AM",1,4
+683,"Prefeitura Municipal de Capanema - PA",1,14
+684,"Prefeitura Municipal de Capela - AL",1,2
+685,"Prefeitura Municipal de Capela do Alto Alegre - BA",1,5
+686,"Prefeitura Municipal de Capelinha - MG",1,13
+687,"Prefeitura Municipal de Capim - PB",1,15
+688,"Prefeitura Municipal de Capim Grosso - BA",1,5
+689,"Prefeitura Municipal de Capitão Andrade - MG",1,13
+690,"Prefeitura Municipal de Capitão de Campos - PI",1,18
+691,"Prefeitura Municipal de Capitão Enéas - MG",1,13
+692,"Prefeitura Municipal de Capitão Gervásio Oliveira - PI",1,18
+693,"Prefeitura Municipal de Capitão Poço - PA",1,14
+694,"Prefeitura Municipal de Capixaba - AC",1,1
+695,"Prefeitura Municipal de Capoeiras - PE",1,17
+696,"Prefeitura Municipal de Caputira - MG",1,13
+697,"Prefeitura Municipal de Caracaraí - RR",1,23
+698,"Prefeitura Municipal de Caracol - PI",1,18
+699,"Prefeitura Municipal de Caraí - MG",1,13
+700,"Prefeitura Municipal de Caraíbas - BA",1,5
+701,"Prefeitura Municipal de Carapicuíba - SP",1,25
+702,"Prefeitura Municipal de Caratinga - MG",1,13
+703,"Prefeitura Municipal de Carauari - AM",1,4
+704,"Prefeitura Municipal de Caraúbas - RN",1,20
+705,"Prefeitura Municipal de Caravelas - BA",1,5
+706,"Prefeitura Municipal de Carbonita - MG",1,13
+707,"Prefeitura Municipal de Cardeal da Silva - BA",1,5
+708,"Prefeitura Municipal de Cardoso - SP",1,25
+709,"Prefeitura Municipal de Careiro - AM",1,4
+710,"Prefeitura Municipal de Careiro da Várzea - AM",1,4
+711,"Prefeitura Municipal de Caridade - CE",1,6
+712,"Prefeitura Municipal de Carira - SE",1,26
+713,"Prefeitura Municipal de Caririaçu - CE",1,6
+714,"Prefeitura Municipal de Carmo do Rio Claro - MG",1,13
+715,"Prefeitura Municipal de Carmo do Rio Verde - GO",1,9
+716,"Prefeitura Municipal de Carnaúba dos Dantas - RN",1,20
+717,"Prefeitura Municipal de Carnaubais - RN",1,20
+718,"Prefeitura Municipal de Carneirinho - MG",1,13
+719,"Prefeitura Municipal de Carneiros - AL",1,2
+720,"Prefeitura Municipal de Caroebe - RR",1,23
+721,"Prefeitura Municipal de Carpina - PE",1,17
+722,"Prefeitura Municipal de Carrasco Bonito - TO",1,27
+723,"Prefeitura Municipal de Caruaru - PE",1,17
+724,"Prefeitura Municipal de Carutapera - MA",1,10
+725,"Prefeitura Municipal de Casa Nova - BA",1,5
+726,"Prefeitura Municipal de Cascavel - CE",1,6
+727,"Prefeitura Municipal de Caseara - TO",1,27
+728,"Prefeitura Municipal de Casserengue - PB",1,15
+729,"Prefeitura Municipal de Castanhal - PA",1,14
+730,"Prefeitura Municipal de Castanheira - MT",1,11
+731,"Prefeitura Municipal de Castro Alves - BA",1,5
+732,"Prefeitura Municipal de Cataguases - MG",1,13
+733,"Prefeitura Municipal de Catanduvas - PR",1,16
+734,"Prefeitura Municipal de Catende - PE",1,17
+735,"Prefeitura Municipal de Catingueira - PB",1,15
+736,"Prefeitura Municipal de Catolândia - BA",1,5
+737,"Prefeitura Municipal de Catu - BA",1,5
+738,"Prefeitura Municipal de Catuji - MG",1,13
+739,"Prefeitura Municipal de Catunda - CE",1,6
+740,"Prefeitura Municipal de Catuti - MG",1,13
+741,"Prefeitura Municipal de Caucaia - CE",1,6
+742,"Prefeitura Municipal de Caxambu - MG",1,13
+743,"Prefeitura Municipal de Caxias - MA",1,10
+744,"Prefeitura Municipal de Ceará-Mirim - RN",1,20
+745,"Prefeitura Municipal de Cedral - MA",1,10
+746,"Prefeitura Municipal de Cedral - SP",1,25
+747,"Prefeitura Municipal de Cedro - CE",1,6
+748,"Prefeitura Municipal de Centenário - TO",1,27
+749,"Prefeitura Municipal de Central - BA",1,5
+750,"Prefeitura Municipal de Central de Minas - MG",1,13
+751,"Prefeitura Municipal de Central do Maranhão - MA",1,10
+752,"Prefeitura Municipal de Centralina - MG",1,13
+753,"Prefeitura Municipal de Centro Novo do Maranhão - MA",1,10
+754,"Prefeitura Municipal de Cerro Largo - RS",1,21
+755,"Prefeitura Municipal de Cesário Lange - SP",1,25
+756,"Prefeitura Municipal de Chã Preta - AL",1,2
+757,"Prefeitura Municipal de Chalé - MG",1,13
+758,"Prefeitura Municipal de Chapada do Norte - MG",1,13
+759,"Prefeitura Municipal de Chapadinha - MA",1,10
+760,"Prefeitura Municipal de Chapecó - SC",1,24
+761,"Prefeitura Municipal de Charqueadas - RS",1,21
+762,"Prefeitura Municipal de Chaval - CE",1,6
+763,"Prefeitura Municipal de Chaves - PA",1,14
+764,"Prefeitura Municipal de Choró - CE",1,6
+765,"Prefeitura Municipal de Chorozinho - CE",1,6
+766,"Prefeitura Municipal de Chuí - RS",1,21
+767,"Prefeitura Municipal de Cianorte - PR",1,16
+768,"Prefeitura Municipal de Cidreira - RS",1,21
+769,"Prefeitura Municipal de Cipó - BA",1,5
+770,"Prefeitura Municipal de Cláudia - MT",1,11
+771,"Prefeitura Municipal de Coaraci - BA",1,5
+772,"Prefeitura Municipal de Coari - AM",1,4
+773,"Prefeitura Municipal de Cocal - PI",1,18
+774,"Prefeitura Municipal de Cocal de Telha - PI",1,18
+775,"Prefeitura Municipal de Codajás - AM",1,4
+776,"Prefeitura Municipal de Codó - MA",1,10
+777,"Prefeitura Municipal de Coelho Neto - MA",1,10
+778,"Prefeitura Municipal de Colares - PA",1,14
+779,"Prefeitura Municipal de Colinas do Sul - GO",1,9
+780,"Prefeitura Municipal de Colinas do Tocantins - TO",1,27
+781,"Prefeitura Municipal de Colméia - TO",1,27
+782,"Prefeitura Municipal de Colniza",1,11
+783,"Prefeitura Municipal de Colônia do Gurguéia - PI",1,18
+784,"Prefeitura Municipal de Colônia do Piauí - PI",1,18
+785,"Prefeitura Municipal de Colônia Leopoldina - AL",1,2
+786,"Prefeitura Municipal de Colorado - RS",1,21
+787,"Prefeitura Municipal de Combinado - TO",1,27
+788,"Prefeitura Municipal de Comodoro - MT",1,11
+789,"Prefeitura Municipal de Conceição - PB",1,15
+790,"Prefeitura Municipal de Conceição da Aparecida - MG",1,13
+791,"Prefeitura Municipal de Conceição da Barra - ES",1,8
+792,"Prefeitura Municipal de Conceição da Feira - BA",1,5
+793,"Prefeitura Municipal de Conceição das Alagoas - MG",1,13
+794,"Prefeitura Municipal de Conceição de Macabu - RJ",1,19
+795,"Prefeitura Municipal de Conceição do Almeida - BA",1,5
+796,"Prefeitura Municipal de Conceição do Araguaia - PA",1,14
+797,"Prefeitura Municipal de Conceição do Canindé - PI",1,18
+798,"Prefeitura Municipal de Conceição do Lago-Açu - MA",1,10
+799,"Prefeitura Municipal de Conceição do Rio Verde - MG",1,13
+800,"Prefeitura Municipal de Concórdia do Pará - PA",1,14
+801,"Prefeitura Municipal de Condado - PB",1,15
+802,"Prefeitura Municipal de Conde - BA",1,5
+803,"Prefeitura Municipal de Cônego Marinho - MG",1,13
+804,"Prefeitura Municipal de Confresa - MT",1,11
+805,"Prefeitura Municipal de Congo - PB",1,15
+806,"Prefeitura Municipal de Conselheiro Lafaiete - MG",1,13
+807,"Prefeitura Municipal de Coração de Jesus - MG",1,13
+808,"Prefeitura Municipal de Coração de Maria - BA",1,5
+809,"Prefeitura Municipal de Cordisburgo - MG",1,13
+810,"Prefeitura Municipal de Coremas - PB",1,15
+811,"Prefeitura Municipal de Corguinho - MS",1,12
+812,"Prefeitura Municipal de Coroaci - MG",1,13
+813,"Prefeitura Municipal de Coroatá - MA",1,10
+814,"Prefeitura Municipal de Coronel Ezequiel - RN",1,20
+815,"Prefeitura Municipal de Coronel João Sá - BA",1,5
+816,"Prefeitura Municipal de Coronel José Dias - PI",1,18
+817,"Prefeitura Municipal de Coronel Vivida - PR",1,16
+818,"Prefeitura Municipal de Córrego Danta - MG",1,13
+819,"Prefeitura Municipal de Córrego do Ouro - GO",1,9
+820,"Prefeitura Municipal de Córrego Novo - MG",1,13
+821,"Prefeitura Municipal de Corrente - PI",1,18
+822,"Prefeitura Municipal de Correntes - PE",1,17
+823,"Prefeitura Municipal de Cortês - PE",1,17
+824,"Prefeitura Municipal de Corumbaíba - GO",1,9
+825,"Prefeitura Municipal de Cotegipe - BA",1,5
+826,"Prefeitura Municipal de Cotriguaçu - MT",1,11
+827,"Prefeitura Municipal de Couto de Magalhães de Minas - MG",1,13
+828,"Prefeitura Municipal de Craíbas - AL",1,2
+829,"Prefeitura Municipal de Crisólita - MG",1,13
+830,"Prefeitura Municipal de Cristianópolis - GO",1,9
+831,"Prefeitura Municipal de Cristinápolis - SE",1,26
+832,"Prefeitura Municipal de Cristino Castro - PI",1,18
+833,"Prefeitura Municipal de Cruz do Espírito Santo - PB",1,15
+834,"Prefeitura Municipal de Cruzeiro - SP",1,25
+835,"Prefeitura Municipal de Cruzeiro da Fortaleza - MG",1,13
+836,"Prefeitura Municipal de Cruzeiro do Sul - AC",1,1
+837,"Prefeitura Municipal de Cruzeta - RN",1,20
+838,"Prefeitura Municipal de Cubatão - SP",1,25
+839,"Prefeitura Municipal de Cujubim - RO",1,22
+840,"Prefeitura Municipal de Cumaru - PE",1,17
+841,"Prefeitura Municipal de Cumaru do Norte - PA",1,14
+842,"Prefeitura Municipal de Cumbe - SE",1,26
+843,"Prefeitura Municipal de Cunha - SP",1,25
+844,"Prefeitura Municipal de Cuparaque - MG",1,13
+845,"Prefeitura Municipal de Cupira - PE",1,17
+846,"Prefeitura Municipal de Curaçá - BA",1,5
+847,"Prefeitura Municipal de Curionópolis - PA",1,14
+848,"Prefeitura Municipal de Currais - PI",1,18
+849,"Prefeitura Municipal de Curral de Cima - PB",1,15
+850,"Prefeitura Municipal de Curral Velho - PB",1,15
+851,"Prefeitura Municipal de Curralinho - PA",1,14
+852,"Prefeitura Municipal de Curralinhos - PI",1,18
+853,"Prefeitura Municipal de Curuá - PA",1,14
+854,"Prefeitura Municipal de Curuçá - PA",1,14
+855,"Prefeitura Municipal de Cururupu - MA",1,10
+856,"Prefeitura Municipal de Curvelândia - MT",1,11
+857,"Prefeitura Municipal de Damião - PB",1,15
+858,"Prefeitura Municipal de Darcinópolis - TO",1,27
+859,"Prefeitura Municipal de Dário Meira - BA",1,5
+860,"Prefeitura Municipal de Davinópolis - GO",1,9
+861,"Prefeitura Municipal de Davinópolis - MA",1,10
+862,"Prefeitura Municipal de Delmiro Gouveia - AL",1,2
+863,"Prefeitura Municipal de Demerval Lobão - PI",1,18
+864,"Prefeitura Municipal de Desterro - PB",1,15
+865,"Prefeitura Municipal de Diadema - SP",1,25
+866,"Prefeitura Municipal de Diamante - PB",1,15
+867,"Prefeitura Municipal de Diamantino - MT",1,11
+868,"Prefeitura Municipal de Diogo de Vasconcelos - MG",1,13
+869,"Prefeitura Municipal de Dionísio Cerqueira - SC",1,24
+870,"Prefeitura Municipal de Dirceu Arcoverde - PI",1,18
+871,"Prefeitura Municipal de Divino - MG",1,13
+872,"Prefeitura Municipal de Divino das Laranjeiras - MG",1,13
+873,"Prefeitura Municipal de Divinolândia de Minas - MG",1,13
+874,"Prefeitura Municipal de Divinópolis de Goiás - GO",1,9
+875,"Prefeitura Municipal de Divisa Alegre - MG",1,13
+876,"Prefeitura Municipal de Dois Riachos - AL",1,2
+877,"Prefeitura Municipal de Dom Aquino - MT",1,11
+878,"Prefeitura Municipal de Dom Eliseu - PA",1,14
+879,"Prefeitura Municipal de Dom Inocêncio - PI",1,18
+880,"Prefeitura Municipal de Dom Pedro - MA",1,10
+881,"Prefeitura Municipal de Domingos Mourão - PI",1,18
+882,"Prefeitura Municipal de Dona Euzébia - MG",1,13
+883,"Prefeitura Municipal de Dores do Indaiá - MG",1,13
+884,"Prefeitura Municipal de Dores do Turvo - MG",1,13
+885,"Prefeitura Municipal de Doutor Severiano - RN",1,20
+886,"Prefeitura Municipal de Duas Barras - RJ",1,19
+887,"Prefeitura Municipal de Duas Estradas - PB",1,15
+888,"Prefeitura Municipal de Dueré - TO",1,27
+889,"Prefeitura Municipal de Duque de Caxias - RJ",1,19
+890,"Prefeitura Municipal de Durandé - MG",1,13
+891,"Prefeitura Municipal de Echaporã - SP",1,25
+892,"Prefeitura Municipal de Eirunepé - AM",1,4
+893,"Prefeitura Municipal de Eldorado do Sul - RS",1,21
+894,"Prefeitura Municipal de Eldorado dos Carajás - PA",1,14
+895,"Prefeitura Municipal de Eliseu Martins - PI",1,18
+896,"Prefeitura Municipal de Elísio Medrado - BA",1,5
+897,"Prefeitura Municipal de Emas - PB",1,15
+898,"Prefeitura Municipal de Embaúba - SP",1,25
+899,"Prefeitura Municipal de Encruzilhada - BA",1,5
+900,"Prefeitura Municipal de Engenheiro Navarro - MG",1,13
+901,"Prefeitura Municipal de Engenheiro Paulo de Frontin - RJ",1,19
+902,"Prefeitura Municipal de Entre Rios - BA",1,5
+903,"Prefeitura Municipal de Envira - AM",1,4
+904,"Prefeitura Municipal de Epitaciolândia - AC",1,1
+905,"Prefeitura Municipal de Ervália - MG",1,13
+906,"Prefeitura Municipal de Escada - PE",1,17
+907,"Prefeitura Municipal de Esperança - PB",1,15
+908,"Prefeitura Municipal de Esperantina - PI",1,18
+909,"Prefeitura Municipal de Esperantina - TO",1,27
+910,"Prefeitura Municipal de Esperantinópolis - MA",1,10
+911,"Prefeitura Municipal de Espírito Santo - RN",1,20
+912,"Prefeitura Municipal de Espírito Santo do Turvo - SP",1,25
+913,"Prefeitura Municipal de Estância - SE",1,26
+914,"Prefeitura Municipal de Esteio - RS",1,21
+915,"Prefeitura Municipal de Estreito - MA",1,10
+916,"Prefeitura Municipal de Estrela de Alagoas - AL",1,2
+917,"Prefeitura Municipal de Estrela do Norte - GO",1,9
+918,"Prefeitura Municipal de Estrela do Sul - MG",1,13
+919,"Prefeitura Municipal de Euclides da Cunha - BA",1,5
+920,"Prefeitura Municipal de Eunápolis - BA",1,5
+921,"Prefeitura Municipal de Eusébio - CE",1,6
+922,"Prefeitura Municipal de Extremoz - RN",1,20
+923,"Prefeitura Municipal de Fagundes - PB",1,15
+924,"Prefeitura Municipal de Faria Lemos - MG",1,13
+925,"Prefeitura Municipal de Faro - PA",1,14
+926,"Prefeitura Municipal de Fartura do Piauí - PI",1,18
+927,"Prefeitura Municipal de Fazenda Rio Grande - PR",1,16
+928,"Prefeitura Municipal de Feira de Santana - BA",1,5
+929,"Prefeitura Municipal de Felipe Guerra - RN",1,20
+930,"Prefeitura Municipal de Fernandópolis - SP",1,25
+931,"Prefeitura Municipal de Ferraz de Vasconcelos - SP",1,25
+932,"Prefeitura Municipal de Ferreira Gomes - AP",1,3
+933,"Prefeitura Municipal de Ferreiros - PE",1,17
+934,"Prefeitura Municipal de Filadélfia - BA",1,5
+935,"Prefeitura Municipal de Filadélfia - TO",1,27
+936,"Prefeitura Municipal de Floreal - SP",1,25
+937,"Prefeitura Municipal de Flores - PE",1,17
+938,"Prefeitura Municipal de Flores de Goiás - GO",1,9
+939,"Prefeitura Municipal de Floresta - PE",1,17
+940,"Prefeitura Municipal de Floresta do Araguaia - PA",1,14
+941,"Prefeitura Municipal de Florestópolis - PR",1,16
+942,"Prefeitura Municipal de Fonte Boa - AM",1,4
+943,"Prefeitura Municipal de Formosa da Serra Negra - MA",1,10
+944,"Prefeitura Municipal de Formoso - GO",1,9
+945,"Prefeitura Municipal de Formoso - MG",1,13
+946,"Prefeitura Municipal de Formoso do Araguaia - TO",1,27
+947,"Prefeitura Municipal de Forquilha - CE",1,6
+948,"Prefeitura Municipal de Forquilhinha - SC",1,24
+949,"Prefeitura Municipal de Fortaleza do Tabocão - TO",1,27
+950,"Prefeitura Municipal de Fortaleza dos Nogueiras - MA",1,10
+951,"Prefeitura Municipal de Fortim - CE",1,6
+952,"Prefeitura Municipal de Fortuna - MA",1,10
+953,"Prefeitura Municipal de Foz do Iguaçu - PR",1,16
+954,"Prefeitura Municipal de Francisco Ayres - PI",1,18
+955,"Prefeitura Municipal de Francisco Dumont - MG",1,13
+956,"Prefeitura Municipal de Francisco Macedo - PI",1,18
+957,"Prefeitura Municipal de Francisco Santos - PI",1,18
+958,"Prefeitura Municipal de Frecheirinha - CE",1,6
+959,"Prefeitura Municipal de Frei Inocêncio - MG",1,13
+960,"Prefeitura Municipal de Frei Martinho - PB",1,15
+961,"Prefeitura Municipal de Frei Miguelinho - PE",1,17
+962,"Prefeitura Municipal de Frei Paulo - SE",1,26
+963,"Prefeitura Municipal de Fronteiras - PI",1,18
+964,"Prefeitura Municipal de Frutal - MG",1,13
+965,"Prefeitura Municipal de Galiléia - MG",1,13
+966,"Prefeitura Municipal de Galinhos - RN",1,20
+967,"Prefeitura Municipal de Gameleira - PE",1,17
+968,"Prefeitura Municipal de Gandu - BA",1,5
+969,"Prefeitura Municipal de Garanhuns - PE",1,17
+970,"Prefeitura Municipal de Gararu - SE",1,26
+971,"Prefeitura Municipal de Garrafão do Norte - PA",1,14
+972,"Prefeitura Municipal de General Carneiro - MT",1,11
+973,"Prefeitura Municipal de Gentio do Ouro - BA",1,5
+974,"Prefeitura Municipal de Getulina - SP",1,25
+975,"Prefeitura Municipal de Gilbués - PI",1,18
+976,"Prefeitura Municipal de Giruá - RS",1,21
+977,"Prefeitura Municipal de Godofredo Viana - MA",1,10
+978,"Prefeitura Municipal de Goiana - PE",1,17
+979,"Prefeitura Municipal de Goianésia do Pará - PA",1,14
+980,"Prefeitura Municipal de Goiânia - GO",1,9
+981,"Prefeitura Municipal de Goianinha - RN",1,20
+982,"Prefeitura Municipal de Goianira - GO",1,9
+983,"Prefeitura Municipal de Goianorte - TO",1,27
+984,"Prefeitura Municipal de Goiatins - TO",1,27
+985,"Prefeitura Municipal de Goioxim - PR",1,16
+986,"Prefeitura Municipal de Gonzaga - MG",1,13
+987,"Prefeitura Municipal de Governador Archer - MA",1,10
+988,"Prefeitura Municipal de Governador Dix-Sept Rosado - RN",1,20
+989,"Prefeitura Municipal de Governador Edison Lobão - MA",1,10
+990,"Prefeitura Municipal de Governador Jorge Teixeira - RO",1,22
+991,"Prefeitura Municipal de Governador Luiz Rocha - MA",1,10
+992,"Prefeitura Municipal de Governador Newton Bello - MA",1,10
+993,"Prefeitura Municipal de Governador Nunes Freire - MA",1,10
+994,"Prefeitura Municipal de Governador Valadares - MG",1,13
+995,"Prefeitura Municipal de Graça - CE",1,6
+996,"Prefeitura Municipal de Graça Aranha - MA",1,10
+997,"Prefeitura Municipal de Grajaú - MA",1,10
+998,"Prefeitura Municipal de Granja - CE",1,6
+999,"Prefeitura Municipal de Granjeiro - CE",1,6
+1000,"Prefeitura Municipal de Grão Pará - SC",1,24
+1001,"Prefeitura Municipal de Gravatá - PE",1,17
+1002,"Prefeitura Municipal de Gravatal - SC",1,24
+1003,"Prefeitura Municipal de Grossos - RN",1,20
+1004,"Prefeitura Municipal de Guaçuí - ES",1,8
+1005,"Prefeitura Municipal de Guaimbê - SP",1,25
+1006,"Prefeitura Municipal de Guaíra - PR",1,16
+1007,"Prefeitura Municipal de Guajará-Mirim - RO",1,22
+1008,"Prefeitura Municipal de Guajeru - BA",1,5
+1009,"Prefeitura Municipal de Guamaré - RN",1,20
+1010,"Prefeitura Municipal de Guapé - MG",1,13
+1011,"Prefeitura Municipal de Guaraí - TO",1,27
+1012,"Prefeitura Municipal de Guaraíta - GO",1,9
+1013,"Prefeitura Municipal de Guaramiranga - CE",1,6
+1014,"Prefeitura Municipal de Guaranésia - MG",1,13
+1015,"Prefeitura Municipal de Guarani de Goiás - GO",1,9
+1016,"Prefeitura Municipal de Guaraqueçaba - PR",1,16
+1017,"Prefeitura Municipal de Guaratinga - BA",1,5
+1018,"Prefeitura Municipal de Guarinos - GO",1,9
+1019,"Prefeitura Municipal de Guarulhos - SP",1,25
+1020,"Prefeitura Municipal de Guimarânia - MG",1,13
+1021,"Prefeitura Municipal de Gurinhém - PB",1,15
+1022,"Prefeitura Municipal de Gurjão - PB",1,15
+1023,"Prefeitura Municipal de Gurupá - PA",1,14
+1024,"Prefeitura Municipal de Gurupi - TO",1,27
+1025,"Prefeitura Municipal de Herculândia - SP",1,25
+1026,"Prefeitura Municipal de Hidrolândia - CE",1,6
+1027,"Prefeitura Municipal de Hidrolina - GO",1,9
+1028,"Prefeitura Municipal de Hortolândia - SP",1,25
+1029,"Prefeitura Municipal de Iati - PE",1,17
+1030,"Prefeitura Municipal de Ibaretama - CE",1,6
+1031,"Prefeitura Municipal de Ibateguara - AL",1,2
+1032,"Prefeitura Municipal de Ibiá - MG",1,13
+1033,"Prefeitura Municipal de Ibiapina - CE",1,6
+1034,"Prefeitura Municipal de Ibiassucê - BA",1,5
+1035,"Prefeitura Municipal de Ibicoara - BA",1,5
+1036,"Prefeitura Municipal de Ibicuí - BA",1,5
+1037,"Prefeitura Municipal de Ibimirim - PE",1,17
+1038,"Prefeitura Municipal de Ibipeba - BA",1,5
+1039,"Prefeitura Municipal de Ibipitanga - BA",1,5
+1040,"Prefeitura Municipal de Ibiquera - BA",1,5
+1041,"Prefeitura Municipal de Ibiracatu - MG",1,13
+1042,"Prefeitura Municipal de Ibirajuba - PE",1,17
+1043,"Prefeitura Municipal de Ibirapitanga - BA",1,5
+1045,"Prefeitura Municipal de Ibirapuitã - RS",1,21
+1046,"Prefeitura Municipal de Ibirataia - BA",1,5
+1047,"Prefeitura Municipal de Ibitiara - BA",1,5
+1048,"Prefeitura Municipal de Ibititá - BA",1,5
+1049,"Prefeitura Municipal de Ibotirama - BA",1,5
+1050,"Prefeitura Municipal de Icaraí de Minas - MG",1,13
+1051,"Prefeitura Municipal de Icatu - MA",1,10
+1052,"Prefeitura Municipal de Icó - CE",1,6
+1053,"Prefeitura Municipal de Ielmo Marinho - RN",1,20
+1054,"Prefeitura Municipal de Iepê - SP",1,25
+1055,"Prefeitura Municipal de Igaci - AL",1,2
+1056,"Prefeitura Municipal de Igaporã - BA",1,5
+1057,"Prefeitura Municipal de Igarapé do Meio - MA",1,10
+1058,"Prefeitura Municipal de Igarapé-Açu - PA",1,14
+1059,"Prefeitura Municipal de Igarassu - PE",1,17
+1060,"Prefeitura Municipal de Igrapiúna - BA",1,5
+1061,"Prefeitura Municipal de Iguaí - BA",1,5
+1062,"Prefeitura Municipal de Iguape - SP",1,25
+1063,"Prefeitura Municipal de Iguaraci - PE",1,17
+1064,"Prefeitura Municipal de Ilha Grande - PI",1,18
+1065,"Prefeitura Municipal de Ilha Solteira - SP",1,25
+1066,"Prefeitura Municipal de Ilhéus - BA",1,5
+1067,"Prefeitura Municipal de Imaculada - PB",1,15
+1068,"Prefeitura Municipal de Imbituba - SC",1,24
+1069,"Prefeitura Municipal de Inajá - PE",1,17
+1070,"Prefeitura Municipal de Independência - CE",1,6
+1071,"Prefeitura Municipal de Indianópolis - MG",1,13
+1072,"Prefeitura Municipal de Indiaporã - SP",1,25
+1073,"Prefeitura Municipal de Indiaroba - SE",1,26
+1074,"Prefeitura Municipal de Inhambupe - BA",1,5
+1075,"Prefeitura Municipal de Inhangapi - PA",1,14
+1076,"Prefeitura Municipal de Inhapi - AL",1,2
+1077,"Prefeitura Municipal de Inhapim - MG",1,13
+1078,"Prefeitura Municipal de Inhaúma - MG",1,13
+1079,"Prefeitura Municipal de Inhuma - PI",1,18
+1080,"Prefeitura Municipal de Inhumas - GO",1,9
+1081,"Prefeitura Municipal de Ipaba - MG",1,13
+1082,"Prefeitura Municipal de Ipameri - GO",1,9
+1083,"Prefeitura Municipal de Ipaporanga - CE",1,6
+1084,"Prefeitura Municipal de Ipecaetá - BA",1,5
+1085,"Prefeitura Municipal de Ipiaú - BA",1,5
+1086,"Prefeitura Municipal de Ipirá - BA",1,5
+1087,"Prefeitura Municipal de Ipixuna do Pará - PA",1,14
+1088,"Prefeitura Municipal de Ipojuca - PE",1,17
+1089,"Prefeitura Municipal de Iporá - GO",1,9
+1090,"Prefeitura Municipal de Iporã - PR",1,16
+1091,"Prefeitura Municipal de Ipu - CE",1,6
+1092,"Prefeitura Municipal de Iracema - RR",1,23
+1093,"Prefeitura Municipal de Irajuba - BA",1,5
+1094,"Prefeitura Municipal de Iramaia - BA",1,5
+1095,"Prefeitura Municipal de Iranduba - AM",1,4
+1096,"Prefeitura Municipal de Irapuã - SP",1,25
+1097,"Prefeitura Municipal de Irará - BA",1,5
+1098,"Prefeitura Municipal de Irecê - BA",1,5
+1099,"Prefeitura Municipal de Irituia - PA",1,14
+1100,"Prefeitura Municipal de Itabaiana - PB",1,15
+1101,"Prefeitura Municipal de Itabela - BA",1,5
+1102,"Prefeitura Municipal de Itaberaba - BA",1,5
+1103,"Prefeitura Municipal de Itabirinha - MG",1,13
+1104,"Prefeitura Municipal de Itaboraí - RJ",1,19
+1105,"Prefeitura Municipal de Itabuna - BA",1,5
+1106,"Prefeitura Municipal de Itacajá - TO",1,27
+1107,"Prefeitura Municipal de Itacarambi - MG",1,13
+1108,"Prefeitura Municipal de Itacoatiara - AM",1,4
+1109,"Prefeitura Municipal de Itacuruba - PE",1,17
+1110,"Prefeitura Municipal de Itaeté - BA",1,5
+1111,"Prefeitura Municipal de Itagimirim - BA",1,5
+1112,"Prefeitura Municipal de Itaguaçu da Bahia - BA",1,5
+1113,"Prefeitura Municipal de Itaguaí - RJ",1,19
+1114,"Prefeitura Municipal de Itaguatins - TO",1,27
+1115,"Prefeitura Municipal de Itaíba - PE",1,17
+1116,"Prefeitura Municipal de Itaiçaba - CE",1,6
+1117,"Prefeitura Municipal de Itaipava do Grajaú - MA",1,10
+1118,"Prefeitura Municipal de Itaipé - MG",1,13
+1119,"Prefeitura Municipal de Itaituba - PA",1,14
+1120,"Prefeitura Municipal de Itajá - GO",1,9
+1121,"Prefeitura Municipal de Itajá - RN",1,20
+1122,"Prefeitura Municipal de Itaju do Colônia - BA",1,5
+1123,"Prefeitura Municipal de Itajuípe - BA",1,5
+1124,"Prefeitura Municipal de Itamaraju - BA",1,5
+1125,"Prefeitura Municipal de Itamarati - AM",1,4
+1126,"Prefeitura Municipal de Itamari - BA",1,5
+1127,"Prefeitura Municipal de Itambé - BA",1,5
+1128,"Prefeitura Municipal de Itambé - PE",1,17
+1129,"Prefeitura Municipal de Itamonte - MG",1,13
+1130,"Prefeitura Municipal de Itanagra - BA",1,5
+1131,"Prefeitura Municipal de Itanhém - BA",1,5
+1132,"Prefeitura Municipal de Itapaci - GO",1,9
+1133,"Prefeitura Municipal de Itapajé - CE",1,6
+1134,"Prefeitura Municipal de Itaparica - BA",1,5
+1135,"Prefeitura Municipal de Itapé - BA",1,5
+1136,"Prefeitura Municipal de Itapecuru Mirim - MA",1,10
+1137,"Prefeitura Municipal de Itapema - SC",1,24
+1138,"Prefeitura Municipal de Itapipoca - CE",1,6
+1139,"Prefeitura Municipal de Itapissuma - PE",1,17
+1140,"Prefeitura Municipal de Itapitanga - BA",1,5
+1141,"Prefeitura Municipal de Itapuã do Oeste - RO",1,22
+1142,"Prefeitura Municipal de Itapuí - SP",1,25
+1143,"Prefeitura Municipal de Itaquaquecetuba - SP",1,25
+1144,"Prefeitura Municipal de Itarema - CE",1,6
+1145,"Prefeitura Municipal de Itariri - SP",1,25
+1146,"Prefeitura Municipal de Itatiaia - RJ",1,19
+1147,"Prefeitura Municipal de Itatim - BA",1,5
+1148,"Prefeitura Municipal de Itatinga - SP",1,25
+1149,"Prefeitura Municipal de Itatira - CE",1,6
+1150,"Prefeitura Municipal de Itatuba - PB",1,15
+1151,"Prefeitura Municipal de Itaú - RN",1,20
+1152,"Prefeitura Municipal de Itaúba - MT",1,11
+1153,"Prefeitura Municipal de Itaubal - AP",1,3
+1154,"Prefeitura Municipal de Itinga do Maranhão - MA",1,10
+1155,"Prefeitura Municipal de Itiúba - BA",1,5
+1156,"Prefeitura Municipal de Ituporanga - SC",1,24
+1157,"Prefeitura Municipal de Ituverava - SP",1,25
+1158,"Prefeitura Municipal de Iúna - ES",1,8
+1159,"Prefeitura Municipal de Ivolândia - GO",1,9
+1160,"Prefeitura Municipal de Jacaré dos Homens - AL",1,2
+1161,"Prefeitura Municipal de Jaci - SP",1,25
+1162,"Prefeitura Municipal de Jaciara - MT",1,11
+1163,"Prefeitura Municipal de Jacinto - MG",1,13
+1164,"Prefeitura Municipal de Jacobina - BA",1,5
+1165,"Prefeitura Municipal de Jacobina do Piauí - PI",1,18
+1166,"Prefeitura Municipal de Jacuípe - AL",1,2
+1167,"Prefeitura Municipal de Jacupiranga - SP",1,25
+1168,"Prefeitura Municipal de Jacutinga - MG",1,13
+1169,"Prefeitura Municipal de Jaguaraçu - MG",1,13
+1170,"Prefeitura Municipal de Jaguarão - RS",1,21
+1171,"Prefeitura Municipal de Jaguaretama - CE",1,6
+1172,"Prefeitura Municipal de Jaguari - RS",1,21
+1173,"Prefeitura Municipal de Jaguaribara - CE",1,6
+1174,"Prefeitura Municipal de Jaguaribe - CE",1,6
+1175,"Prefeitura Municipal de Jaguaruana - CE",1,6
+1176,"Prefeitura Municipal de Jaíba - MG",1,13
+1177,"Prefeitura Municipal de Jaicós - PI",1,18
+1178,"Prefeitura Municipal de Jales - SP",1,25
+1179,"Prefeitura Municipal de Jandaíra - RN",1,20
+1180,"Prefeitura Municipal de Januária - MG",1,13
+1181,"Prefeitura Municipal de Japaratinga - AL",1,2
+1182,"Prefeitura Municipal de Japaratuba - SE",1,26
+1183,"Prefeitura Municipal de Japeri - RJ",1,19
+1184,"Prefeitura Municipal de Japi - RN",1,20
+1185,"Prefeitura Municipal de Japoatã - SE",1,26
+1186,"Prefeitura Municipal de Japonvar - MG",1,13
+1187,"Prefeitura Municipal de Japurá - AM",1,4
+1188,"Prefeitura Municipal de Jaraguá - GO",1,9
+1189,"Prefeitura Municipal de Jaramataia - AL",1,2
+1190,"Prefeitura Municipal de Jardim - MS",1,12
+1191,"Prefeitura Municipal de Jardim de Piranhas - RN",1,20
+1192,"Prefeitura Municipal de Jardim do Mulato - PI",1,18
+1193,"Prefeitura Municipal de Jardim do Seridó - RN",1,20
+1194,"Prefeitura Municipal de Jati - CE",1,6
+1195,"Prefeitura Municipal de Jatobá do Piauí - PI",1,18
+1196,"Prefeitura Municipal de Jaú - SP",1,25
+1197,"Prefeitura Municipal de Jenipapo dos Vieiras - MA",1,10
+1198,"Prefeitura Municipal de Jequeri - MG",1,13
+1199,"Prefeitura Municipal de Jequiá da Praia - AL",1,2
+1200,"Prefeitura Municipal de Jequié - BA",1,5
+1201,"Prefeitura Municipal de Jequitinhonha - MG",1,13
+1202,"Prefeitura Municipal de Jesuítas - PR",1,16
+1203,"Prefeitura Municipal de Ji-Paraná - RO",1,22
+1204,"Prefeitura Municipal de Jitaúna - BA",1,5
+1205,"Prefeitura Municipal de Joanésia - MG",1,13
+1206,"Prefeitura Municipal de Joanópolis - SP",1,25
+1207,"Prefeitura Municipal de João Câmara - RN",1,20
+1208,"Prefeitura Municipal de João Costa - PI",1,18
+1209,"Prefeitura Municipal de João Dias - RN",1,20
+1210,"Prefeitura Municipal de João Dourado - BA",1,5
+1211,"Prefeitura Municipal de João Lisboa - MA",1,10
+1212,"Prefeitura Municipal de João Pessoa - PB",1,15
+1213,"Prefeitura Municipal de João Pinheiro - MG",1,13
+1214,"Prefeitura Municipal de Joaquim Felício - MG",1,13
+1215,"Prefeitura Municipal de Joaquim Gomes - AL",1,2
+1216,"Prefeitura Municipal de Joaquim Nabuco - PE",1,17
+1217,"Prefeitura Municipal de Joca Claudino-PB",1,15
+1218,"Prefeitura Municipal de José da Penha - RN",1,20
+1219,"Prefeitura Municipal de José de Freitas - PI",1,18
+1220,"Prefeitura Municipal de Joselândia - MA",1,10
+1221,"Prefeitura Municipal de Juatuba - MG",1,13
+1222,"Prefeitura Municipal de Juazeirinho - PB",1,15
+1223,"Prefeitura Municipal de Juazeiro - BA",1,5
+1224,"Prefeitura Municipal de Juazeiro do Norte - CE",1,6
+1225,"Prefeitura Municipal de Juazeiro do Piauí - PI",1,18
+1226,"Prefeitura Municipal de Jucuruçu - BA",1,5
+1227,"Prefeitura Municipal de Jundiá - AL",1,2
+1228,"Prefeitura Municipal de Junqueiro - AL",1,2
+1229,"Prefeitura Municipal de Jupi - PE",1,17
+1230,"Prefeitura Municipal de Juquiá - SP",1,25
+1231,"Prefeitura Municipal de Juquitiba - SP",1,25
+1232,"Prefeitura Municipal de Juramento - MG",1,13
+1233,"Prefeitura Municipal de Jurema - PI",1,18
+1234,"Prefeitura Municipal de Juripiranga - PB",1,15
+1235,"Prefeitura Municipal de Juru - PB",1,15
+1236,"Prefeitura Municipal de Juruena - MT",1,11
+1237,"Prefeitura Municipal de Juruti - PA",1,14
+1238,"Prefeitura Municipal de Juscimeira - MT",1,11
+1239,"Prefeitura Municipal de Jussara - GO",1,9
+1240,"Prefeitura Municipal de Jussari - BA",1,5
+1241,"Prefeitura Municipal de Jussiape - BA",1,5
+1242,"Prefeitura Municipal de Jutaí - AM",1,4
+1243,"Prefeitura Municipal de Lábrea - AM",1,4
+1244,"Prefeitura Municipal de Lagamar - MG",1,13
+1245,"Prefeitura Municipal de Lages - SC",1,24
+1246,"Prefeitura Municipal de Lago do Junco - MA",1,10
+1247,"Prefeitura Municipal de Lago Verde - MA",1,10
+1248,"Prefeitura Municipal de Lagoa - PB",1,15
+1249,"Prefeitura Municipal de Lagoa Alegre - PI",1,18
+1250,"Prefeitura Municipal de Lagoa da Canoa - AL",1,2
+1251,"Prefeitura Municipal de Lagoa D'anta - RN",1,20
+1252,"Prefeitura Municipal de Lagoa de Dentro - PB",1,15
+1253,"Prefeitura Municipal de Lagoa de Pedras - RN",1,20
+1254,"Prefeitura Municipal de Lagoa de São Francisco - PI",1,18
+1255,"Prefeitura Municipal de Lagoa do Carro - PE",1,17
+1256,"Prefeitura Municipal de Lagoa do Itaenga - PE",1,17
+1257,"Prefeitura Municipal de Lagoa do Piauí - PI",1,18
+1258,"Prefeitura Municipal de Lagoa do Sítio - PI",1,18
+1259,"Prefeitura Municipal de Lagoa dos Gatos - PE",1,17
+1260,"Prefeitura Municipal de Lagoa dos Patos - MG",1,13
+1261,"Prefeitura Municipal de Lagoa Grande - MG",1,13
+1262,"Prefeitura Municipal de Lagoa Grande do Maranhão - MA",1,10
+1263,"Prefeitura Municipal de Laguna - SC",1,24
+1264,"Prefeitura Municipal de Lajeado - RS",1,21
+1265,"Prefeitura Municipal de Lajeado Novo - MA",1,10
+1266,"Prefeitura Municipal de Lajedo - PE",1,17
+1267,"Prefeitura Municipal de Lajedo do Tabocal - BA",1,5
+1268,"Prefeitura Municipal de Lajes Pintadas - RN",1,20
+1269,"Prefeitura Municipal de Lamarão - BA",1,5
+1270,"Prefeitura Municipal de Lambari D'oeste - MT",1,11
+1271,"Prefeitura Municipal de Laranjal do Jari - AP",1,3
+1272,"Prefeitura Municipal de Laranjeiras do Sul - PR",1,16
+1273,"Prefeitura Municipal de Lassance - MG",1,13
+1274,"Prefeitura Municipal de Lastro - PB",1,15
+1275,"Prefeitura Municipal de Lavandeira - TO",1,27
+1276,"Prefeitura Municipal de Lavras da Mangabeira - CE",1,6
+1277,"Prefeitura Municipal de Leopoldo de Bulhões - GO",1,9
+1278,"Prefeitura Municipal de Licínio de Almeida - BA",1,5
+1279,"Prefeitura Municipal de Limoeiro - PE",1,17
+1280,"Prefeitura Municipal de Limoeiro de Anadia - AL",1,2
+1281,"Prefeitura Municipal de Limoeiro do Norte - CE",1,6
+1282,"Prefeitura Municipal de Livramento - PB",1,15
+1283,"Prefeitura Municipal de Loreto - MA",1,10
+1284,"Prefeitura Municipal de Lourdes - SP",1,25
+1285,"Prefeitura Municipal de Lucélia - SP",1,25
+1286,"Prefeitura Municipal de Lucena - PB",1,15
+1287,"Prefeitura Municipal de Luciára - MT",1,11
+1288,"Prefeitura Municipal de Luís Domingues - MA",1,10
+1289,"Prefeitura Municipal de Luislândia - MG",1,13
+1290,"Prefeitura Municipal de Luiz Correia - PI",1,18
+1291,"Prefeitura Municipal de Luiziana - PR",1,16
+1292,"Prefeitura Municipal de Lupércio - SP",1,25
+1293,"Prefeitura Municipal de Luzilândia - PI",1,18
+1294,"Prefeitura Municipal de Macapá - AP",1,3
+1295,"Prefeitura Municipal de Macaparana - PE",1,17
+1296,"Prefeitura Municipal de Macarani - BA",1,5
+1297,"Prefeitura Municipal de Macaubal - SP",1,25
+1298,"Prefeitura Municipal de Maceió - AL",1,2
+1299,"Prefeitura Municipal de Machados - PE",1,17
+1300,"Prefeitura Municipal de Madalena - CE",1,6
+1301,"Prefeitura Municipal de Madeiro - PI",1,18
+1302,"Prefeitura Municipal de Mãe D'água - PB",1,15
+1303,"Prefeitura Municipal de Mãe do Rio - PA",1,14
+1304,"Prefeitura Municipal de Magalhães Barata - PA",1,14
+1305,"Prefeitura Municipal de Magé - RJ",1,19
+1306,"Prefeitura Municipal de Mairi - BA",1,5
+1307,"Prefeitura Municipal de Mairinque - SP",1,25
+1308,"Prefeitura Municipal de Major Isidoro - AL",1,2
+1309,"Prefeitura Municipal de Major Vieira - SC",1,24
+1310,"Prefeitura Municipal de Malhada de Pedras - BA",1,5
+1311,"Prefeitura Municipal de Malhada dos Bois - SE",1,26
+1312,"Prefeitura Municipal de Malhador - SE",1,26
+1313,"Prefeitura Municipal de Malta - PB",1,15
+1314,"Prefeitura Municipal de Mamanguape - PB",1,15
+1315,"Prefeitura Municipal de Mamonas - MG",1,13
+1316,"Prefeitura Municipal de Manacapuru - AM",1,4
+1317,"Prefeitura Municipal de Manaíra - PB",1,15
+1318,"Prefeitura Municipal de Manaquiri - AM",1,4
+1319,"Prefeitura Municipal de Manari - PE",1,17
+1320,"Prefeitura Municipal de Manaus - AM",1,4
+1321,"Prefeitura Municipal de Mâncio Lima - AC",1,1
+1322,"Prefeitura Municipal de Manfrinópolis - PR",1,16
+1323,"Prefeitura Municipal de Manga - MG",1,13
+1324,"Prefeitura Municipal de Mangaratiba - RJ",1,19
+1325,"Prefeitura Municipal de Manhuaçu - MG",1,13
+1326,"Prefeitura Municipal de Manicoré - AM",1,4
+1327,"Prefeitura Municipal de Manoel Emídio - PI",1,18
+1328,"Prefeitura Municipal de Manoel Urbano - AC",1,1
+1329,"Prefeitura Municipal de Manoel Vitorino - BA",1,5
+1330,"Prefeitura Municipal de Mansidão - BA",1,5
+1331,"Prefeitura Municipal de Maraã - AM",1,4
+1332,"Prefeitura Municipal de Marabá - PA",1,14
+1333,"Prefeitura Municipal de Marabá Paulista - SP",1,25
+1334,"Prefeitura Municipal de Maracaçumé - MA",1,10
+1335,"Prefeitura Municipal de Maracaju - MS",1,12
+1336,"Prefeitura Municipal de Maracanã - PA",1,14
+1337,"Prefeitura Municipal de Maragogi - AL",1,2
+1338,"Prefeitura Municipal de Maragogipe - BA",1,5
+1339,"Prefeitura Municipal de Maraial - PE",1,17
+1340,"Prefeitura Municipal de Marajá do Sena - MA",1,10
+1341,"Prefeitura Municipal de Maranguape - CE",1,6
+1342,"Prefeitura Municipal de Marapanim - PA",1,14
+1343,"Prefeitura Municipal de Maraú - BA",1,5
+1344,"Prefeitura Municipal de Maravilha - AL",1,2
+1345,"Prefeitura Municipal de Marcação - PB",1,15
+1346,"Prefeitura Municipal de Marcelino Vieira - RN",1,20
+1347,"Prefeitura Municipal de Marcionílio Souza - BA",1,5
+1348,"Prefeitura Municipal de Marechal Cândido Rondon - PR",1,16
+1349,"Prefeitura Municipal de Marechal Deodoro - AL",1,2
+1350,"Prefeitura Municipal de Marechal Floriano - ES",1,8
+1351,"Prefeitura Municipal de Marechal Taumaturgo - AC",1,1
+1352,"Prefeitura Municipal de Mari - PB",1,15
+1353,"Prefeitura Municipal de Maribondo - AL",1,2
+1354,"Prefeitura Municipal de Marília - SP",1,25
+1355,"Prefeitura Municipal de Maringá - PR",1,16
+1356,"Prefeitura Municipal de Marituba - PA",1,14
+1357,"Prefeitura Municipal de Marliéria - MG",1,13
+1358,"Prefeitura Municipal de Marquinho - PR",1,16
+1359,"Prefeitura Municipal de Mascote - BA",1,5
+1360,"Prefeitura Municipal de Massapê - CE",1,6
+1361,"Prefeitura Municipal de Massaranduba - PB",1,15
+1362,"Prefeitura Municipal de Mata Grande - AL",1,2
+1363,"Prefeitura Municipal de Mata Verde - MG",1,13
+1364,"Prefeitura Municipal de Mataraca - PB",1,15
+1365,"Prefeitura Municipal de Mateiros - TO",1,27
+1366,"Prefeitura Municipal de Matelândia - PR",1,16
+1367,"Prefeitura Municipal de Matias Cardoso - MG",1,13
+1368,"Prefeitura Municipal de Matias Olímpio - PI",1,18
+1369,"Prefeitura Municipal de Matinha - MA",1,10
+1370,"Prefeitura Municipal de Matinhas - PB",1,15
+1371,"Prefeitura Municipal de Mato Verde - MG",1,13
+1372,"Prefeitura Municipal de Matões - MA",1,10
+1373,"Prefeitura Municipal de Matões do Norte - MA",1,10
+1374,"Prefeitura Municipal de Matrinchã - GO",1,9
+1375,"Prefeitura Municipal de Matriz de Camaragibe - AL",1,2
+1376,"Prefeitura Municipal de Maturéia - PB",1,15
+1377,"Prefeitura Municipal de Mauá da Serra - PR",1,16
+1378,"Prefeitura Municipal de Maués - AM",1,4
+1379,"Prefeitura Municipal de Mauriti - CE",1,6
+1380,"Prefeitura Municipal de Maxaranguape - RN",1,20
+1381,"Prefeitura Municipal de Mazagão - AP",1,3
+1382,"Prefeitura Municipal de Medeiros Neto - BA",1,5
+1383,"Prefeitura Municipal de Medicilândia - PA",1,14
+1384,"Prefeitura Municipal de Melgaço - PA",1,14
+1385,"Prefeitura Municipal de Mendes Pimentel - MG",1,13
+1386,"Prefeitura Municipal de Mercês - MG",1,13
+1387,"Prefeitura Municipal de Mesquita - MG",1,13
+1388,"Prefeitura Municipal de Miguel Alves - PI",1,18
+1389,"Prefeitura Municipal de Miguel Leão - PI",1,18
+1390,"Prefeitura Municipal de Milhã - CE",1,6
+1391,"Prefeitura Municipal de Mimoso de Goiás - GO",1,9
+1392,"Prefeitura Municipal de Mimoso do Sul - ES",1,8
+1393,"Prefeitura Municipal de Minaçu - GO",1,9
+1394,"Prefeitura Municipal de Minas Novas - MG",1,13
+1395,"Prefeitura Municipal de Mineiros - GO",1,9
+1396,"Prefeitura Municipal de Mira Estrela - SP",1,25
+1397,"Prefeitura Municipal de Miracema do Tocantins - TO",1,27
+1398,"Prefeitura Municipal de Miranda do Norte - MA",1,10
+1399,"Prefeitura Municipal de Mirandiba - PE",1,17
+1400,"Prefeitura Municipal de Mirangaba - BA",1,5
+1401,"Prefeitura Municipal de Mirante da Serra - RO",1,22
+1402,"Prefeitura Municipal de Mirassolândia - SP",1,25
+1403,"Prefeitura Municipal de Mirinzal - MA",1,10
+1404,"Prefeitura Municipal de Missão Velha - CE",1,6
+1405,"Prefeitura Municipal de Mocajuba - PA",1,14
+1406,"Prefeitura Municipal de Mogeiro - PB",1,15
+1407,"Prefeitura Municipal de Mogi-Mirim - SP",1,25
+1408,"Prefeitura Municipal de Moita Bonita - SE",1,26
+1409,"Prefeitura Municipal de Moju - PA",1,14
+1410,"Prefeitura Municipal de Mombaça - CE",1,6
+1411,"Prefeitura Municipal de Monção - MA",1,10
+1412,"Prefeitura Municipal de Monsenhor Gil - PI",1,18
+1413,"Prefeitura Municipal de Monsenhor Hipólito - PI",1,18
+1414,"Prefeitura Municipal de Monsenhor Tabosa - CE",1,6
+1415,"Prefeitura Municipal de Montalvânia - MG",1,13
+1416,"Prefeitura Municipal de Montanhas - RN",1,20
+1417,"Prefeitura Municipal de Monte Alegre - PA",1,14
+1418,"Prefeitura Municipal de Monte Alegre de Goiás - GO",1,9
+1419,"Prefeitura Municipal de Monte Alegre de Sergipe - SE",1,26
+1420,"Prefeitura Municipal de Monte Alegre do Piauí - PI",1,18
+1421,"Prefeitura Municipal de Monte Azul - MG",1,13
+1422,"Prefeitura Municipal de Monte das Gameleiras - RN",1,20
+1423,"Prefeitura Municipal de Monte Formoso - MG",1,13
+1424,"Prefeitura Municipal de Monte Horebe - PB",1,15
+1425,"Prefeitura Municipal de Monte Negro - RO",1,22
+1426,"Prefeitura Municipal de Monte Santo de Minas - MG",1,13
+1427,"Prefeitura Municipal de Monteiro - PB",1,15
+1428,"Prefeitura Municipal de Monteiro Lobato - SP",1,25
+1429,"Prefeitura Municipal de Monteirópolis - AL",1,2
+1430,"Prefeitura Municipal de Montes Altos - MA",1,10
+1431,"Prefeitura Municipal de Montes Claros - MG",1,13
+1432,"Prefeitura Municipal de Montezuma - MG",1,13
+1433,"Prefeitura Municipal de Montividiu do Norte - GO",1,9
+1434,"Prefeitura Municipal de Morada Nova de Minas - MG",1,13
+1435,"Prefeitura Municipal de Moraújo - CE",1,6
+1436,"Prefeitura Municipal de Morpará - BA",1,5
+1437,"Prefeitura Municipal de Morro Cabeça No Tempo - PI",1,18
+1438,"Prefeitura Municipal de Morros - MA",1,10
+1439,"Prefeitura Municipal de Muaná - PA",1,14
+1440,"Prefeitura Municipal de Mucajaí - RR",1,23
+1441,"Prefeitura Municipal de Mucugê - BA",1,5
+1442,"Prefeitura Municipal de Mulungu - CE",1,6
+1443,"Prefeitura Municipal de Mulungu - PB",1,15
+1444,"Prefeitura Municipal de Mulungu do Morro - BA",1,5
+1445,"Prefeitura Municipal de Mundo Novo - BA",1,5
+1446,"Prefeitura Municipal de Mundo Novo - GO",1,9
+1447,"Prefeitura Municipal de Muribeca - SE",1,26
+1448,"Prefeitura Municipal de Murici - AL",1,2
+1449,"Prefeitura Municipal de Murici dos Portelas - PI",1,18
+1450,"Prefeitura Municipal de Nacip Raydan - MG",1,13
+1451,"Prefeitura Municipal de Nantes - SP",1,25
+1452,"Prefeitura Municipal de Nanuque - MG",1,13
+1453,"Prefeitura Municipal de Natividade - RJ",1,19
+1454,"Prefeitura Municipal de Natividade - TO",1,27
+1455,"Prefeitura Municipal de Natividade da Serra - SP",1,25
+1456,"Prefeitura Municipal de Natuba - PB",1,15
+1457,"Prefeitura Municipal de Nazaré - BA",1,5
+1458,"Prefeitura Municipal de Nazaré do Piauí - PI",1,18
+1459,"Prefeitura Municipal de Nazarezinho - PB",1,15
+1460,"Prefeitura Municipal de Nazário - GO",1,9
+1461,"Prefeitura Municipal de Neves Paulista - SP",1,25
+1462,"Prefeitura Municipal de Nhamundá - AM",1,4
+1463,"Prefeitura Municipal de Nhandeara - SP",1,25
+1464,"Prefeitura Municipal de Nilo Peçanha - BA",1,5
+1465,"Prefeitura Municipal de Nilópolis - RJ",1,19
+1466,"Prefeitura Municipal de Nipoã - SP",1,25
+1467,"Prefeitura Municipal de Niquelândia - GO",1,9
+1468,"Prefeitura Municipal de Nísia Floresta - RN",1,20
+1469,"Prefeitura Municipal de Nordestina - BA",1,5
+1470,"Prefeitura Municipal de Normandia - RR",1,23
+1471,"Prefeitura Municipal de Nossa Senhora da Glória - SE",1,26
+1472,"Prefeitura Municipal de Nossa Senhora das Dores - SE",1,26
+1473,"Prefeitura Municipal de Nossa Senhora das Graças - PR",1,16
+1474,"Prefeitura Municipal de Nossa Senhora dos Remédios - PI",1,18
+1475,"Prefeitura Municipal de Nova Aliança - SP",1,25
+1476,"Prefeitura Municipal de Nova Alvorada - RS",1,21
+1477,"Prefeitura Municipal de Nova Alvorada do Sul - MS",1,12
+1478,"Prefeitura Municipal de Nova Andradina - MS",1,12
+1479,"Prefeitura Municipal de Nova Aurora - GO",1,9
+1480,"Prefeitura Municipal de Nova Campina - SP",1,25
+1481,"Prefeitura Municipal de Nova Canaã - BA",1,5
+1482,"Prefeitura Municipal de Nova Esperança do Piriá - PA",1,14
+1483,"Prefeitura Municipal de Nova Esperança do Sudoeste - PR",1,16
+1484,"Prefeitura Municipal de Nova Fátima - BA",1,5
+1485,"Prefeitura Municipal de Nova Glória - GO",1,9
+1486,"Prefeitura Municipal de Nova Granada - SP",1,25
+1487,"Prefeitura Municipal de Nova Ibiá - BA",1,5
+1488,"Prefeitura Municipal de Nova Iguaçu - RJ",1,19
+1489,"Prefeitura Municipal de Nova Iguaçu de Goiás - GO",1,9
+1490,"Prefeitura Municipal de Nova Iorque - MA",1,10
+1491,"Prefeitura Municipal de Nova Ipixuna - PA",1,14
+1492,"Prefeitura Municipal de Nova Laranjeiras - PR",1,16
+1493,"Prefeitura Municipal de Nova Lima - MG",1,13
+1494,"Prefeitura Municipal de Nova Maringá - MT",1,11
+1495,"Prefeitura Municipal de Nova Módica - MG",1,13
+1496,"Prefeitura Municipal de Nova Olímpia - PR",1,16
+1497,"Prefeitura Municipal de Nova Olinda - PB",1,15
+1498,"Prefeitura Municipal de Nova Olinda do Maranhão - MA",1,10
+1499,"Prefeitura Municipal de Nova Olinda do Norte - AM",1,4
+1500,"Prefeitura Municipal de Nova Palmeira - PB",1,15
+1501,"Prefeitura Municipal de Nova Porteirinha - MG",1,13
+1502,"Prefeitura Municipal de Nova Redenção - BA",1,5
+1503,"Prefeitura Municipal de Nova Russas - CE",1,6
+1504,"Prefeitura Municipal de Nova Santa Rita - PI",1,18
+1505,"Prefeitura Municipal de Nova Tebas - PR",1,16
+1506,"Prefeitura Municipal de Nova Timboteua - PA",1,14
+1507,"Prefeitura Municipal de Nova Xavantina - MT",1,11
+1508,"Prefeitura Municipal de Novo Acordo - TO",1,27
+1509,"Prefeitura Municipal de Novo Airão - AM",1,4
+1510,"Prefeitura Municipal de Novo Aripuanã - AM",1,4
+1511,"Prefeitura Municipal de Novo Cruzeiro - MG",1,13
+1512,"Prefeitura Municipal de Novo Gama - GO",1,9
+1513,"Prefeitura Municipal de Novo Horizonte do Oeste - RO",1,22
+1514,"Prefeitura Municipal de Novo Oriente - CE",1,6
+1515,"Prefeitura Municipal de Novo Progresso - PA",1,14
+1516,"Prefeitura Municipal de Novo Repartimento - PA",1,14
+1517,"Prefeitura Municipal de Novo Santo Antônio - PI",1,18
+1518,"Prefeitura Municipal de Oeiras - PI",1,18
+1519,"Prefeitura Municipal de Oeiras do Pará - PA",1,14
+1520,"Prefeitura Municipal de Oiapoque - AP",1,3
+1521,"Prefeitura Municipal de Olho D'água - PB",1,15
+1522,"Prefeitura Municipal de Olho D'água das Cunhãs - MA",1,10
+1523,"Prefeitura Municipal de Olho D'água do Casado - AL",1,2
+1524,"Prefeitura Municipal de Olho D'água Grande - AL",1,2
+1525,"Prefeitura Municipal de Olho-D'água do Borges - RN",1,20
+1526,"Prefeitura Municipal de Olinda - PE",1,17
+1527,"Prefeitura Municipal de Olinda Nova do Maranhão - MA",1,10
+1528,"Prefeitura Municipal de Olivença - AL",1,2
+1529,"Prefeitura Municipal de Orobó - PE",1,17
+1530,"Prefeitura Municipal de Orocó - PE",1,17
+1531,"Prefeitura Municipal de Orós - CE",1,6
+1532,"Prefeitura Municipal de Osório - RS",1,21
+1533,"Prefeitura Municipal de Ouriçangas - BA",1,5
+1534,"Prefeitura Municipal de Ouricuri - PE",1,17
+1535,"Prefeitura Municipal de Ourinhos - SP",1,25
+1536,"Prefeitura Municipal de Ouro Preto do Oeste - RO",1,22
+1537,"Prefeitura Municipal de Ouro Verde de Minas - MG",1,13
+1538,"Prefeitura Municipal de Ourolândia - BA",1,5
+1539,"Prefeitura Municipal de Pacaembu - SP",1,25
+1540,"Prefeitura Municipal de Pacajá - PA",1,14
+1541,"Prefeitura Municipal de Pacajus - CE",1,6
+1542,"Prefeitura Municipal de Pacaraima - RR",1,23
+1543,"Prefeitura Municipal de Pacatuba - CE",1,6
+1544,"Prefeitura Municipal de Pacatuba - SE",1,26
+1545,"Prefeitura Municipal de Paço do Lumiar - MA",1,10
+1546,"Prefeitura Municipal de Pacoti - CE",1,6
+1547,"Prefeitura Municipal de Pacujá - CE",1,6
+1548,"Prefeitura Municipal de Padre Marcos - PI",1,18
+1549,"Prefeitura Municipal de Palestina - SP",1,25
+1550,"Prefeitura Municipal de Palestina do Pará - PA",1,14
+1551,"Prefeitura Municipal de Palmácia - CE",1,6
+1552,"Prefeitura Municipal de Palmares - PE",1,17
+1553,"Prefeitura Municipal de Palmares Paulista - SP",1,25
+1554,"Prefeitura Municipal de Palmas - TO",1,27
+1555,"Prefeitura Municipal de Palmeirais - PI",1,18
+1556,"Prefeitura Municipal de Palmeirândia - MA",1,10
+1557,"Prefeitura Municipal de Palmeirante - TO",1,27
+1558,"Prefeitura Municipal de Palmeiras - BA",1,5
+1559,"Prefeitura Municipal de Palmeirina - PE",1,17
+1560,"Prefeitura Municipal de Panelas - PE",1,17
+1561,"Prefeitura Municipal de Pão de Açúcar - AL",1,2
+1562,"Prefeitura Municipal de Paracambi - RJ",1,19
+1563,"Prefeitura Municipal de Paracatu - MG",1,13
+1564,"Prefeitura Municipal de Paracuru - CE",1,6
+1565,"Prefeitura Municipal de Paragominas - PA",1,14
+1566,"Prefeitura Municipal de Paraipaba - CE",1,6
+1567,"Prefeitura Municipal de Paraíso do Tocantins - TO",1,27
+1568,"Prefeitura Municipal de Paramoti - CE",1,6
+1569,"Prefeitura Municipal de Paranã - TO",1,27
+1570,"Prefeitura Municipal de Paranacity - PR",1,16
+1571,"Prefeitura Municipal de Paranaíba - MS",1,12
+1572,"Prefeitura Municipal de Paranaíta - MT",1,11
+1573,"Prefeitura Municipal de Paranatinga - MT",1,11
+1574,"Prefeitura Municipal de Paranhos - MS",1,12
+1575,"Prefeitura Municipal de Paratinga - BA",1,5
+1576,"Prefeitura Municipal de Paraú",1,20
+1577,"Prefeitura Municipal de Parauapebas - PA",1,14
+1578,"Prefeitura Municipal de Parelhas - RN",1,20
+1579,"Prefeitura Municipal de Pariconha - AL",1,2
+1580,"Prefeitura Municipal de Parintins - AM",1,4
+1581,"Prefeitura Municipal de Pariquera-Açu - SP",1,25
+1582,"Prefeitura Municipal de Parnaguá - PI",1,18
+1583,"Prefeitura Municipal de Parnamirim - PE",1,17
+1584,"Prefeitura Municipal de Parobé - RS",1,21
+1585,"Prefeitura Municipal de Passa Quatro - MG",1,13
+1586,"Prefeitura Municipal de Passagem Franca do Piauí - PI",1,18
+1587,"Prefeitura Municipal de Passira - PE",1,17
+1588,"Prefeitura Municipal de Passo de Camaragibe - AL",1,2
+1589,"Prefeitura Municipal de Passos - MG",1,13
+1590,"Prefeitura Municipal de Patis - MG",1,13
+1591,"Prefeitura Municipal de Patos - PB",1,15
+1592,"Prefeitura Municipal de Patu - RN",1,20
+1593,"Prefeitura Municipal de Pau D'arco - PA",1,14
+1594,"Prefeitura Municipal de Pau D'arco - TO",1,27
+1595,"Prefeitura Municipal de Paudalho - PE",1,17
+1596,"Prefeitura Municipal de Pauini - AM",1,4
+1597,"Prefeitura Municipal de Paulínia - SP",1,25
+1598,"Prefeitura Municipal de Paulista - PB",1,15
+1599,"Prefeitura Municipal de Paulo Afonso - BA",1,5
+1600,"Prefeitura Municipal de Paulo de Faria - SP",1,25
+1601,"Prefeitura Municipal de Paulo Ramos - MA",1,10
+1602,"Prefeitura Municipal de Pavussu - PI",1,18
+1603,"Prefeitura Municipal de Pé de Serra - BA",1,5
+1604,"Prefeitura Municipal de Peçanha - MG",1,13
+1605,"Prefeitura Municipal de Pedra - PE",1,17
+1606,"Prefeitura Municipal de Pedra Azul - MG",1,13
+1607,"Prefeitura Municipal de Pedra Branca - CE",1,6
+1608,"Prefeitura Municipal de Pedra Branca do Amapari - AP",1,3
+1609,"Prefeitura Municipal de Pedra Preta - RN",1,20
+1610,"Prefeitura Municipal de Pedranópolis - SP",1,25
+1611,"Prefeitura Municipal de Pedras de Fogo - PB",1,15
+1612,"Prefeitura Municipal de Pedras de Maria da Cruz - MG",1,13
+1613,"Prefeitura Municipal de Pedrinhas - SE",1,26
+1614,"Prefeitura Municipal de Pedro Afonso - TO",1,27
+1615,"Prefeitura Municipal de Pedro Alexandre - BA",1,5
+1616,"Prefeitura Municipal de Pedro Canário - ES",1,8
+1617,"Prefeitura Municipal de Pedro do Rosário - MA",1,10
+1618,"Prefeitura Municipal de Pedro Gomes - MS",1,12
+1619,"Prefeitura Municipal de Pedro II - PI",1,18
+1620,"Prefeitura Municipal de Peixe - TO",1,27
+1621,"Prefeitura Municipal de Penalva - MA",1,10
+1622,"Prefeitura Municipal de Pendências - RN",1,20
+1623,"Prefeitura Municipal de Penedo - AL",1,2
+1624,"Prefeitura Municipal de Pentecoste - CE",1,6
+1625,"Prefeitura Municipal de Peri Mirim - MA",1,10
+1626,"Prefeitura Municipal de Periquito - MG",1,13
+1627,"Prefeitura Municipal de Peritoró - MA",1,10
+1628,"Prefeitura Municipal de Pesqueira - PE",1,17
+1629,"Prefeitura Municipal de Petrolândia - SC",1,24
+1630,"Prefeitura Municipal de Petrolina - PE",1,17
+1631,"Prefeitura Municipal de Petrolina de Goiás - GO",1,9
+1632,"Prefeitura Municipal de Petrópolis - RJ",1,19
+1633,"Prefeitura Municipal de Piancó - PB",1,15
+1634,"Prefeitura Municipal de Piatã - BA",1,5
+1635,"Prefeitura Municipal de Piçarra - PA",1,14
+1636,"Prefeitura Municipal de Piedade dos Gerais - MG",1,13
+1637,"Prefeitura Municipal de Pilão Arcado - BA",1,5
+1638,"Prefeitura Municipal de Pilar - AL",1,2
+1639,"Prefeitura Municipal de Pilões - PB",1,15
+1640,"Prefeitura Municipal de Pindaí - BA",1,5
+1641,"Prefeitura Municipal de Pindamonhangaba - SP",1,25
+1642,"Prefeitura Municipal de Pindaré Mirim - MA",1,10
+1643,"Prefeitura Municipal de Pindoba - AL",1,2
+1644,"Prefeitura Municipal de Pindobaçu - BA",1,5
+1645,"Prefeitura Municipal de Pindoretama - CE",1,6
+1646,"Prefeitura Municipal de Pingo D'água - MG",1,13
+1647,"Prefeitura Municipal de Pinhalão - PR",1,16
+1648,"Prefeitura Municipal de Pinhão - SE",1,26
+1649,"Prefeitura Municipal de Pinheiro - MA",1,10
+1650,"Prefeitura Municipal de Pinheiros - ES",1,8
+1651,"Prefeitura Municipal de Pintópolis - MG",1,13
+1652,"Prefeitura Municipal de Pio Xii - MA",1,10
+1653,"Prefeitura Municipal de Piquete - SP",1,25
+1654,"Prefeitura Municipal de Piracanjuba - GO",1,9
+1655,"Prefeitura Municipal de Piracuruca - PI",1,18
+1656,"Prefeitura Municipal de Piraí do Norte - BA",1,5
+1657,"Prefeitura Municipal de Pirajuí - SP",1,25
+1658,"Prefeitura Municipal de Piranhas - AL",1,2
+1659,"Prefeitura Municipal de Pirapemas - MA",1,10
+1660,"Prefeitura Municipal de Pirapora - MG",1,13
+1661,"Prefeitura Municipal de Pirapozinho - SP",1,25
+1662,"Prefeitura Municipal de Piraúba - MG",1,13
+1663,"Prefeitura Municipal de Pirenópolis - GO",1,9
+1664,"Prefeitura Municipal de Pires do Rio - GO",1,9
+1665,"Prefeitura Municipal de Pires Ferreira - CE",1,6
+1666,"Prefeitura Municipal de Pirpirituba - PB",1,15
+1667,"Prefeitura Municipal de Pitanga - PR",1,16
+1668,"Prefeitura Municipal de Pitimbu - PB",1,15
+1669,"Prefeitura Municipal de Piumhi - MG",1,13
+1670,"Prefeitura Municipal de Placas - PA",1,14
+1671,"Prefeitura Municipal de Plácido de Castro - AC",1,1
+1672,"Prefeitura Municipal de Planaltina - GO",1,9
+1673,"Prefeitura Municipal de Planaltino - BA",1,5
+1674,"Prefeitura Municipal de Planalto - BA",1,5
+1675,"Prefeitura Municipal de Planalto - SP",1,25
+1676,"Prefeitura Municipal de Poção - PE",1,17
+1677,"Prefeitura Municipal de Poção de Pedras - MA",1,10
+1678,"Prefeitura Municipal de Pocinhos - PB",1,15
+1679,"Prefeitura Municipal de Poço Branco - RN",1,20
+1680,"Prefeitura Municipal de Poço das Trincheiras - AL",1,2
+1681,"Prefeitura Municipal de Poço de José de Moura - PB",1,15
+1682,"Prefeitura Municipal de Poço Redondo - SE",1,26
+1683,"Prefeitura Municipal de Poço Verde - SE",1,26
+1684,"Prefeitura Municipal de Poconé - MT",1,11
+1685,"Prefeitura Municipal de Pocrane - MG",1,13
+1686,"Prefeitura Municipal de Poloni - SP",1,25
+1687,"Prefeitura Municipal de Pombal - PB",1,15
+1688,"Prefeitura Municipal de Pombos - PE",1,17
+1689,"Prefeitura Municipal de Pongaí - SP",1,25
+1690,"Prefeitura Municipal de Ponta de Pedras - PA",1,14
+1691,"Prefeitura Municipal de Ponta Grossa - PR",1,16
+1692,"Prefeitura Municipal de Pontalina - GO",1,9
+1693,"Prefeitura Municipal de Pontalinda - SP",1,25
+1694,"Prefeitura Municipal de Pontão - RS",1,21
+1695,"Prefeitura Municipal de Ponte Alta do Tocantins - TO",1,27
+1696,"Prefeitura Municipal de Ponte Branca - MT",1,11
+1697,"Prefeitura Municipal de Ponto Belo - ES",1,8
+1698,"Prefeitura Municipal de Ponto dos Volantes - MG",1,13
+1699,"Prefeitura Municipal de Poranga - CE",1,6
+1700,"Prefeitura Municipal de Porangatu - GO",1,9
+1701,"Prefeitura Municipal de Porciúncula - RJ",1,19
+1702,"Prefeitura Municipal de Porteirão - GO",1,9
+1703,"Prefeitura Municipal de Porteirinha - MG",1,13
+1704,"Prefeitura Municipal de Portel - PA",1,14
+1705,"Prefeitura Municipal de Portelândia - GO",1,9
+1706,"Prefeitura Municipal de Porto - PI",1,18
+1707,"Prefeitura Municipal de Porto Acre - AC",1,1
+1708,"Prefeitura Municipal de Porto Alegre - RS",1,21
+1709,"Prefeitura Municipal de Porto Alegre do Norte - MT",1,11
+1710,"Prefeitura Municipal de Porto Belo - SC",1,24
+1711,"Prefeitura Municipal de Porto Calvo - AL",1,2
+1712,"Prefeitura Municipal de Porto da Folha - SE",1,26
+1713,"Prefeitura Municipal de Porto de Moz - PA",1,14
+1714,"Prefeitura Municipal de Porto de Pedras - AL",1,2
+1715,"Prefeitura Municipal de Porto Esperidião - MT",1,11
+1716,"Prefeitura Municipal de Porto Estrela - MT",1,11
+1717,"Prefeitura Municipal de Porto Ferreira - SP",1,25
+1718,"Prefeitura Municipal de Porto Franco - MA",1,10
+1719,"Prefeitura Municipal de Porto Grande - AP",1,3
+1720,"Prefeitura Municipal de Porto Nacional - TO",1,27
+1721,"Prefeitura Municipal de Porto Real do Colégio - AL",1,2
+1722,"Prefeitura Municipal de Porto Rico do Maranhão - MA",1,10
+1723,"Prefeitura Municipal de Porto Seguro - BA",1,5
+1724,"Prefeitura Municipal de Porto Velho - RO",1,22
+1725,"Prefeitura Municipal de Porto Walter - AC",1,1
+1726,"Prefeitura Municipal de Potengi - CE",1,6
+1727,"Prefeitura Municipal de Potiraguá - BA",1,5
+1728,"Prefeitura Municipal de Potirendaba - SP",1,25
+1729,"Prefeitura Municipal de Potiretama - CE",1,6
+1730,"Prefeitura Municipal de Pracuúba - AP",1,3
+1731,"Prefeitura Municipal de Prados - MG",1,13
+1732,"Prefeitura Municipal de Prainha - PA",1,14
+1733,"Prefeitura Municipal de Prata - PB",1,15
+1734,"Prefeitura Municipal de Prata do Piauí - PI",1,18
+1735,"Prefeitura Municipal de Pratinha - MG",1,13
+1736,"Prefeitura Municipal de Presidente Dutra - MA",1,10
+1737,"Prefeitura Municipal de Presidente Figueiredo - AM",1,4
+1738,"Prefeitura Municipal de Presidente Juscelino - MA",1,10
+1739,"Prefeitura Municipal de Presidente Juscelino - MG",1,13
+1740,"Prefeitura Municipal de Presidente Kennedy - ES",1,8
+1741,"Prefeitura Municipal de Presidente Kennedy - TO",1,27
+1742,"Prefeitura Municipal de Presidente Médici - RO",1,22
+1743,"Prefeitura Municipal de Presidente Sarney - MA",1,10
+1744,"Prefeitura Municipal de Presidente Vargas - MA",1,10
+1745,"Prefeitura Municipal de Primavera - PE",1,17
+1746,"Prefeitura Municipal de Primavera do Leste - MT",1,11
+1747,"Prefeitura Municipal de Primeira Cruz - MA",1,10
+1748,"Prefeitura Municipal de Princesa Isabel - PB",1,15
+1749,"Prefeitura Municipal de Promissão - SP",1,25
+1750,"Prefeitura Municipal de Prudente de Morais - MG",1,13
+1751,"Prefeitura Municipal de Pureza - RN",1,20
+1752,"Prefeitura Municipal de Puxinanã - PB",1,15
+1753,"Prefeitura Municipal de Quatipuru - PA",1,14
+1754,"Prefeitura Municipal de Quatis - RJ",1,19
+1755,"Prefeitura Municipal de Quatro Barras - PR",1,16
+1756,"Prefeitura Municipal de Quebrangulo - AL",1,2
+1757,"Prefeitura Municipal de Queimadas - BA",1,5
+1758,"Prefeitura Municipal de Queimadas - PB",1,15
+1759,"Prefeitura Municipal de Queimados - RJ",1,19
+1760,"Prefeitura Municipal de Queiroz - SP",1,25
+1761,"Prefeitura Municipal de Queluz - SP",1,25
+1762,"Prefeitura Municipal de Quijingue - BA",1,5
+1763,"Prefeitura Municipal de Quipapá - PE",1,17
+1764,"Prefeitura Municipal de Quiterianópolis - CE",1,6
+1765,"Prefeitura Municipal de Quixabeira - BA",1,5
+1766,"Prefeitura Municipal de Quixadá - CE",1,6
+1767,"Prefeitura Municipal de Quixeramobim - CE",1,6
+1768,"Prefeitura Municipal de Quixeré - CE",1,6
+1769,"Prefeitura Municipal de Rafael Fernandes - RN",1,20
+1770,"Prefeitura Municipal de Rafael Jambeiro - BA",1,5
+1771,"Prefeitura Municipal de Raposa - MA",1,10
+1772,"Prefeitura Municipal de Raul Soares - MG",1,13
+1773,"Prefeitura Municipal de Recife - PE",1,17
+1774,"Prefeitura Municipal de Recursolândia - TO",1,27
+1775,"Prefeitura Municipal de Redenção - CE",1,6
+1776,"Prefeitura Municipal de Redenção - PA",1,14
+1777,"Prefeitura Municipal de Reduto - MG",1,13
+1778,"Prefeitura Municipal de Reginópolis - SP",1,25
+1779,"Prefeitura Municipal de Registro - SP",1,25
+1780,"Prefeitura Municipal de Remanso - BA",1,5
+1781,"Prefeitura Municipal de Reriutaba - CE",1,6
+1782,"Prefeitura Municipal de Reserva do Iguaçu - PR",1,16
+1783,"Prefeitura Municipal de Retirolândia - BA",1,5
+1784,"Prefeitura Municipal de Riachão - PB",1,15
+1785,"Prefeitura Municipal de Riachão do Dantas - SE",1,26
+1786,"Prefeitura Municipal de Riachão do Jacuípe - BA",1,5
+1787,"Prefeitura Municipal de Riachinho - MG",1,13
+1788,"Prefeitura Municipal de Riachinho - TO",1,27
+1789,"Prefeitura Municipal de Riacho das Almas - PE",1,17
+1790,"Prefeitura Municipal de Riacho de Santo Antônio - PB",1,15
+1791,"Prefeitura Municipal de Riacho dos Machados - MG",1,13
+1792,"Prefeitura Municipal de Riacho Frio - PI",1,18
+1793,"Prefeitura Municipal de Ribeira do Amparo - BA",1,5
+1794,"Prefeitura Municipal de Ribeira do Pombal - BA",1,5
+1795,"Prefeitura Municipal de Ribeirão - PE",1,17
+1796,"Prefeitura Municipal de Ribeirão das Neves - MG",1,13
+1797,"Prefeitura Municipal de Ribeirão do Pinhal - PR",1,16
+1798,"Prefeitura Municipal de Ribeirão do Sul - SP",1,25
+1799,"Prefeitura Municipal de Ribeirão Preto - SP",1,25
+1800,"Prefeitura Municipal de Rio Branco - MT",1,11
+1801,"Prefeitura Municipal de Rio da Conceição - TO",1,27
+1802,"Prefeitura Municipal de Rio de Contas - BA",1,5
+1803,"Prefeitura Municipal de Rio de Janeiro - RJ",1,19
+1804,"Prefeitura Municipal de Rio do Fogo - RN",1,20
+1805,"Prefeitura Municipal de Rio dos Bois - TO",1,27
+1806,"Prefeitura Municipal de Rio Formoso - PE",1,17
+1807,"Prefeitura Municipal de Rio Grande - RS",1,21
+1808,"Prefeitura Municipal de Rio Grande do Piauí - PI",1,18
+1809,"Prefeitura Municipal de Rio Largo - AL",1,2
+1810,"Prefeitura Municipal de Rio Manso - MG",1,13
+1811,"Prefeitura Municipal de Rio Negrinho - SC",1,24
+1812,"Prefeitura Municipal de Rio Preto da Eva - AM",1,4
+1813,"Prefeitura Municipal de Rio Tinto - PB",1,15
+1814,"Prefeitura Municipal de Rio Verde - GO",1,9
+1815,"Prefeitura Municipal de Rodeiro - MG",1,13
+1816,"Prefeitura Municipal de Rodolfo Fernandes - RN",1,20
+1817,"Prefeitura Municipal de Rolândia - PR",1,16
+1818,"Prefeitura Municipal de Rolim de Moura - RO",1,22
+1819,"Prefeitura Municipal de Rondon do Pará - PA",1,14
+1820,"Prefeitura Municipal de Rondonópolis - MT",1,11
+1821,"Prefeitura Municipal de Rorainópolis - RR",1,23
+1822,"Prefeitura Municipal de Rosário - MA",1,10
+1823,"Prefeitura Municipal de Rosário Oeste - MT",1,11
+1824,"Prefeitura Municipal de Rubelita - MG",1,13
+1825,"Prefeitura Municipal de Rubiácea - SP",1,25
+1826,"Prefeitura Municipal de Rubinéia - SP",1,25
+1827,"Prefeitura Municipal de Rurópolis - PA",1,14
+1828,"Prefeitura Municipal de Russas - CE",1,6
+1829,"Prefeitura Municipal de Sabinópolis - MG",1,13
+1830,"Prefeitura Municipal de Sairé - PE",1,17
+1831,"Prefeitura Municipal de Salgado de São Félix - PB",1,15
+1832,"Prefeitura Municipal de Salinas - MG",1,13
+1833,"Prefeitura Municipal de Salinópolis - PA",1,14
+1834,"Prefeitura Municipal de Salitre - CE",1,6
+1835,"Prefeitura Municipal de Saloá - PE",1,17
+1836,"Prefeitura Municipal de Salto do Céu - MT",1,11
+1837,"Prefeitura Municipal de Salvador - BA",1,5
+1838,"Prefeitura Municipal de Salvaterra - PA",1,14
+1839,"Prefeitura Municipal de Sambaíba - MA",1,10
+1840,"Prefeitura Municipal de Sampaio - TO",1,27
+1841,"Prefeitura Municipal de Sanclerlândia - GO",1,9
+1842,"Prefeitura Municipal de Santa Bárbara do Leste - MG",1,13
+1843,"Prefeitura Municipal de Santa Branca - SP",1,25
+1844,"Prefeitura Municipal de Santa Cruz Cabrália - BA",1,5
+1845,"Prefeitura Municipal de Santa Cruz da Vitória - BA",1,5
+1846,"Prefeitura Municipal de Santa Cruz de Salinas - MG",1,13
+1847,"Prefeitura Municipal de Santa Cruz do Capibaribe - PE",1,17
+1848,"Prefeitura Municipal de Santa Cruz do Piauí - PI",1,18
+1849,"Prefeitura Municipal de Santa Efigênia de Minas - MG",1,13
+1850,"Prefeitura Municipal de Santa Fé do Araguaia - TO",1,27
+1851,"Prefeitura Municipal de Santa Filomena - PI",1,18
+1852,"Prefeitura Municipal de Santa Filomena do Maranhão - MA",1,10
+1853,"Prefeitura Municipal de Santa Helena - MA",1,10
+1854,"Prefeitura Municipal de Santa Helena de Minas - MG",1,13
+1855,"Prefeitura Municipal de Santa Inês - BA",1,5
+1856,"Prefeitura Municipal de Santa Inês - MA",1,10
+1857,"Prefeitura Municipal de Santa Inês - PB",1,15
+1858,"Prefeitura Municipal de Santa Isabel do Pará - PA",1,14
+1859,"Prefeitura Municipal de Santa Isabel do Rio Negro - AM",1,4
+1860,"Prefeitura Municipal de Santa Leopoldina - ES",1,8
+1861,"Prefeitura Municipal de Santa Luzia - BA",1,5
+1862,"Prefeitura Municipal de Santa Luzia - MA",1,10
+1863,"Prefeitura Municipal de Santa Luzia - MG",1,13
+1864,"Prefeitura Municipal de Santa Luzia - PB",1,15
+1865,"Prefeitura Municipal de Santa Luzia do Norte - AL",1,2
+1866,"Prefeitura Municipal de Santa Luzia do Pará - PA",1,14
+1867,"Prefeitura Municipal de Santa Luzia do Paruá - MA",1,10
+1868,"Prefeitura Municipal de Santa Luzia D'oeste - RO",1,22
+1869,"Prefeitura Municipal de Santa Maria - RN",1,20
+1870,"Prefeitura Municipal de Santa Maria da Boa Vista - PE",1,17
+1871,"Prefeitura Municipal de Santa Maria das Barreiras - PA",1,14
+1872,"Prefeitura Municipal de Santa Maria do Salto - MG",1,13
+1873,"Prefeitura Municipal de Santa Maria do Suaçuí - MG",1,13
+1874,"Prefeitura Municipal de Santa Maria do Tocantins - TO",1,27
+1875,"Prefeitura Municipal de Santa Quitéria - CE",1,6
+1876,"Prefeitura Municipal de Santa Quitéria do Maranhão - MA",1,10
+1877,"Prefeitura Municipal de Santa Rita - MA",1,10
+1878,"Prefeitura Municipal de Santa Rita - PB",1,15
+1879,"Prefeitura Municipal de Santa Rita do Itueto - MG",1,13
+1880,"Prefeitura Municipal de Santa Rosa de Goiás - GO",1,9
+1881,"Prefeitura Municipal de Santa Teresinha - PB",1,15
+1882,"Prefeitura Municipal de Santa Terezinha - MT",1,11
+1883,"Prefeitura Municipal de Santa Terezinha - PE",1,17
+1884,"Prefeitura Municipal de Santa Vitória do Palmar - RS",1,21
+1885,"Prefeitura Municipal de Santaluz - BA",1,5
+1886,"Prefeitura Municipal de Santana - AP",1,3
+1887,"Prefeitura Municipal de Santana de Mangueira - PB",1,15
+1888,"Prefeitura Municipal de Santana do Acaraú - CE",1,6
+1889,"Prefeitura Municipal de Santana do Araguaia - PA",1,14
+1890,"Prefeitura Municipal de Santana do Livramento - RS",1,21
+1891,"Prefeitura Municipal de Santana do Maranhão - MA",1,10
+1892,"Prefeitura Municipal de Santana do Matos - RN",1,20
+1893,"Prefeitura Municipal de Santana dos Garrotes - PB",1,15
+1894,"Prefeitura Municipal de Santarém Novo - PA",1,14
+1895,"Prefeitura Municipal de Santo Amaro - BA",1,5
+1896,"Prefeitura Municipal de Santo Amaro do Maranhão - MA",1,10
+1897,"Prefeitura Municipal de Santo Ângelo - RS",1,21
+1898,"Prefeitura Municipal de Santo Antônio - RN",1,20
+1899,"Prefeitura Municipal de Santo Antônio da Barra - GO",1,9
+1900,"Prefeitura Municipal de Santo Antônio de Lisboa - PI",1,18
+1901,"Prefeitura Municipal de Santo Antônio do Descoberto - GO",1,9
+1902,"Prefeitura Municipal de Santo Antônio do Içá - AM",1,4
+1903,"Prefeitura Municipal de Santo Antônio do Jacinto - MG",1,13
+1904,"Prefeitura Municipal de Santo Antônio do Leverger - MT",1,11
+1905,"Prefeitura Municipal de Santo Antônio do Tauá - PA",1,14
+1906,"Prefeitura Municipal de Santo Antônio dos Lopes - MA",1,10
+1907,"Prefeitura Municipal de Santo Expedito - SP",1,25
+1908,"Prefeitura Municipal de Santo Hipólito - MG",1,13
+1909,"Prefeitura Municipal de Santo Inácio do Piauí - PI",1,18
+1910,"Prefeitura Municipal de Santos Dumont - MG",1,13
+1911,"Prefeitura Municipal de São Benedito - CE",1,6
+1912,"Prefeitura Municipal de São Benedito do Rio Preto - MA",1,10
+1913,"Prefeitura Municipal de São Benedito do Sul - PE",1,17
+1914,"Prefeitura Municipal de São Bentinho-PB",1,15
+1915,"Prefeitura Municipal de São Bento - MA",1,10
+1916,"Prefeitura Municipal de São Bento - PB",1,15
+1917,"Prefeitura Municipal de São Bento Abade - MG",1,13
+1918,"Prefeitura Municipal de São Bento do Tocantins - TO",1,27
+1919,"Prefeitura Municipal de São Bento do Trairí - RN",1,20
+1920,"Prefeitura Municipal de São Brás - AL",1,2
+1921,"Prefeitura Municipal de São Braz do Piauí - PI",1,18
+1922,"Prefeitura Municipal de São Caetano - Pe",1,17
+1923,"Prefeitura Municipal de São Caetano de Odivelas - PA",1,14
+1924,"Prefeitura Municipal de São Cristóvão - SE",1,26
+1925,"Prefeitura Municipal de São Desidério - BA",1,5
+1926,"Prefeitura Municipal de São Domingos do Araguaia - PA",1,14
+1927,"Prefeitura Municipal de São Domingos do Azeitão - MA",1,10
+1928,"Prefeitura Municipal de São Domingos do Capim - PA",1,14
+1929,"Prefeitura Municipal de São Domingos do Maranhão - MA",1,10
+1930,"Prefeitura Municipal de São Domingos do Prata - MG",1,13
+1931,"Prefeitura Municipal de São Domingos-PB",1,15
+1932,"Prefeitura Municipal de São Félix de Minas - MG",1,13
+1933,"Prefeitura Municipal de São Félix do Araguaia - MT",1,11
+1934,"Prefeitura Municipal de São Félix do Coribe - BA",1,5
+1935,"Prefeitura Municipal de São Félix do Xingu - PA",1,14
+1936,"Prefeitura Municipal de São Francisco de Assis do Piauí - PI",1,18
+1937,"Prefeitura Municipal de São Francisco do Maranhão - MA",1,10
+1938,"Prefeitura Municipal de São Francisco do Oeste - RN",1,20
+1939,"Prefeitura Municipal de São Francisco do Piauí - PI",1,18
+1940,"Prefeitura Municipal de São Gabriel - RS",1,21
+1941,"Prefeitura Municipal de São Gabriel da Cachoeira - AM",1,4
+1942,"Prefeitura Municipal de São Geraldo do Araguaia - PA",1,14
+1943,"Prefeitura Municipal de São Geraldo do Baixio - MG",1,13
+1944,"Prefeitura Municipal de São Gonçalo - RJ",1,19
+1945,"Prefeitura Municipal de São Gonçalo do Amarante - CE",1,6
+1946,"Prefeitura Municipal de São Gonçalo do Gurguéia - PI",1,18
+1947,"Prefeitura Municipal de São Gonçalo do Piauí - PI",1,18
+1948,"Prefeitura Municipal de São Gonçalo dos Campos - BA",1,5
+1949,"Prefeitura Municipal de São João - PE",1,17
+1950,"Prefeitura Municipal de São João Batista - MA",1,10
+1951,"Prefeitura Municipal de São João Batista - SC",1,24
+1952,"Prefeitura Municipal de São João da Baliza - RR",1,23
+1953,"Prefeitura Municipal de São João da Ponta - PA",1,14
+1954,"Prefeitura Municipal de São João da Serra - PI",1,18
+1955,"Prefeitura Municipal de São João da Urtiga - RS",1,21
+1956,"Prefeitura Municipal de São João das Duas Pontes - SP",1,25
+1957,"Prefeitura Municipal de São João de Iracema - SP",1,25
+1958,"Prefeitura Municipal de São João de Meriti - RJ",1,19
+1959,"Prefeitura Municipal de São João de Pirabas - PA",1,14
+1960,"Prefeitura Municipal de São João Del Rei - MG",1,13
+1961,"Prefeitura Municipal de São João do Araguaia - PA",1,14
+1962,"Prefeitura Municipal de São João do Cariri - PB",1,15
+1963,"Prefeitura Municipal de São João do Carú - MA",1,10
+1964,"Prefeitura Municipal de São João do Jaguaribe - CE",1,6
+1965,"Prefeitura Municipal de São João do Manhuaçu - MG",1,13
+1966,"Prefeitura Municipal de São João do Oriente - MG",1,13
+1967,"Prefeitura Municipal de São João do Pacuí - MG",1,13
+1968,"Prefeitura Municipal de São João do Paraíso - MA",1,10
+1969,"Prefeitura Municipal de São João do Paraíso - MG",1,13
+1970,"Prefeitura Municipal de São João do Piauí - PI",1,18
+1971,"Prefeitura Municipal de São João do Rio do Peixe - PB",1,15
+1972,"Prefeitura Municipal de São João do Soter - MA",1,10
+1973,"Prefeitura Municipal de São João do Tigre - PB",1,15
+1974,"Prefeitura Municipal de São João dos Patos - MA",1,10
+1975,"Prefeitura Municipal de São Joaquim do Monte - PE",1,17
+1976,"Prefeitura Municipal de São José - SC",1,24
+1977,"Prefeitura Municipal de São José da Coroa Grande - PE",1,17
+1978,"Prefeitura Municipal de São José da Lagoa Tapada - PB",1,15
+1979,"Prefeitura Municipal de São José da Laje - AL",1,2
+1980,"Prefeitura Municipal de São José da Safira - MG",1,13
+1981,"Prefeitura Municipal de São José da Tapera - AL",1,2
+1982,"Prefeitura Municipal de São José da Varginha - MG",1,13
+1983,"Prefeitura Municipal de São José de Caiana - PB",1,15
+1984,"Prefeitura Municipal de São José de Piranhas - PB",1,15
+1985,"Prefeitura Municipal de São José de Ribamar - MA",1,10
+1986,"Prefeitura Municipal de São José do Barreiro - SP",1,25
+1987,"Prefeitura Municipal de São José do Campestre - RN",1,20
+1988,"Prefeitura Municipal de São José do Egito - PE",1,17
+1989,"Prefeitura Municipal de São José do Jacuípe - BA",1,5
+1990,"Prefeitura Municipal de São José do Piauí - PI",1,18
+1991,"Prefeitura Municipal de São José do Sabugi - PB",1,15
+1992,"Prefeitura Municipal de São José do Vale do Rio Preto - RJ",1,19
+1993,"Prefeitura Municipal de São José do Xingu - MT",1,11
+1994,"Prefeitura Municipal de São José dos Basílios - MA",1,10
+1995,"Prefeitura Municipal de São José dos Ramos - PB",1,15
+1996,"Prefeitura Municipal de São Lourenço da Mata - PE",1,17
+1997,"Prefeitura Municipal de São Lourenço do Piauí - PI",1,18
+1998,"Prefeitura Municipal de São Lourenço do Sul - RS",1,21
+1999,"Prefeitura Municipal de São Luís - MA",1,10
+2000,"Prefeitura Municipal de São Luís do Paraitinga - SP",1,25
+2001,"Prefeitura Municipal de São Luís do Quitunde - AL",1,2
+2002,"Prefeitura Municipal de São Luís Gonzaga do Maranhão - MA",1,10
+2003,"Prefeitura Municipal de São Luíz do Norte - GO",1,9
+2004,"Prefeitura Municipal de São Miguel - RN",1,20
+2005,"Prefeitura Municipal de São Miguel do Guamá - PA",1,14
+2006,"Prefeitura Municipal de São Miguel do Iguaçu - PR",1,16
+2007,"Prefeitura Municipal de São Miguel do Tocantins - TO",1,27
+2008,"Prefeitura Municipal de São Miguel dos Milagres - AL",1,2
+2009,"Prefeitura Municipal de São Patrício - GO",1,9
+2010,"Prefeitura Municipal de São Paulo de Olivença - AM",1,4
+2011,"Prefeitura Municipal de São Pedro da Água Branca - MA",1,10
+2012,"Prefeitura Municipal de São Pedro da Cipa - MT",1,11
+2013,"Prefeitura Municipal de São Pedro do Suaçuí - MG",1,13
+2014,"Prefeitura Municipal de São Pedro do Turvo - SP",1,25
+2015,"Prefeitura Municipal de São Pedro dos Crentes - MA",1,10
+2016,"Prefeitura Municipal de São Raimundo do Doca Bezerra - MA",1,10
+2017,"Prefeitura Municipal de São Raimundo Nonato - PI",1,18
+2018,"Prefeitura Municipal de São Roberto - MA",1,10
+2019,"Prefeitura Municipal de São Romão - MG",1,13
+2020,"Prefeitura Municipal de São Sebastião - SP",1,25
+2021,"Prefeitura Municipal de São Sebastião da Boa Vista - PA",1,14
+2022,"Prefeitura Municipal de São Sebastião do Rio Verde - MG",1,13
+2023,"Prefeitura Municipal de São Sebastião do Tocantins - TO",1,27
+2024,"Prefeitura Municipal de São Sebastião do Uatumã - AM",1,4
+2025,"Prefeitura Municipal de São Sebastião do Umbuzeiro - PB",1,15
+2026,"Prefeitura Municipal de São Simão - GO",1,9
+2027,"Prefeitura Municipal de São Tomé - RN",1,20
+2028,"Prefeitura Municipal de São Vicente - SP",1,25
+2029,"Prefeitura Municipal de São Vicente Ferrer - MA",1,10
+2030,"Prefeitura Municipal de São Vicente Ferrer - PE",1,17
+2031,"Prefeitura Municipal de Sapé - PB",1,15
+2032,"Prefeitura Municipal de Sapucaia - RJ",1,19
+2033,"Prefeitura Municipal de Sarandi - RS",1,21
+2034,"Prefeitura Municipal de Sarapuí - SP",1,25
+2035,"Prefeitura Municipal de Sardoá - MG",1,13
+2036,"Prefeitura Municipal de Satuba - AL",1,2
+2037,"Prefeitura Municipal de Satubinha - MA",1,10
+2038,"Prefeitura Municipal de Saúde - BA",1,5
+2039,"Prefeitura Municipal de Seabra - BA",1,5
+2040,"Prefeitura Municipal de Sebastianópolis do Sul - SP",1,25
+2041,"Prefeitura Municipal de Sebastião Barros - PI",1,18
+2042,"Prefeitura Municipal de Selvíria - MS",1,12
+2043,"Prefeitura Municipal de Sena Madureira - AC",1,1
+2044,"Prefeitura Municipal de Senador Elói de Souza - RN",1,20
+2045,"Prefeitura Municipal de Senador Georgino Avelino - RN",1,20
+2046,"Prefeitura Municipal de Senador José Porfírio - PA",1,14
+2047,"Prefeitura Municipal de Senador La Rocque - MA",1,10
+2048,"Prefeitura Municipal de Senador Pompeu - CE",1,6
+2049,"Prefeitura Municipal de Senador Rui Palmeira - AL",1,2
+2050,"Prefeitura Municipal de Senador Sá - CE",1,6
+2051,"Prefeitura Municipal de Senhor do Bonfim - BA",1,5
+2052,"Prefeitura Municipal de Sento Sé - BA",1,5
+2053,"Prefeitura Municipal de Serra Branca - PB",1,15
+2054,"Prefeitura Municipal de Serra Caiada Ou de Presidente Juscelino - RN",1,20
+2055,"Prefeitura Municipal de Serra de São Bento - RN",1,20
+2056,"Prefeitura Municipal de Serra Grande - PB",1,15
+2057,"Prefeitura Municipal de Serrana - SP",1,25
+2058,"Prefeitura Municipal de Serrano do Maranhão - MA",1,10
+2059,"Prefeitura Municipal de Serraria - PB",1,15
+2060,"Prefeitura Municipal de Serrinha - BA",1,5
+2061,"Prefeitura Municipal de Serrinha - RN",1,20
+2062,"Prefeitura Municipal de Serrinha dos Pintos - RN",1,20
+2063,"Prefeitura Municipal de Serrolândia - BA",1,5
+2064,"Prefeitura Municipal de Sertânia - PE",1,17
+2065,"Prefeitura Municipal de Sertãozinho - PB",1,15
+2066,"Prefeitura Municipal de Severiano Melo - RN",1,20
+2067,"Prefeitura Municipal de Sidrolândia - MS",1,12
+2068,"Prefeitura Municipal de Sigefredo Pacheco - PI",1,18
+2069,"Prefeitura Municipal de Silva Jardim - RJ",1,19
+2070,"Prefeitura Municipal de Silvânia - GO",1,9
+2071,"Prefeitura Municipal de Silvanópolis - TO",1,27
+2072,"Prefeitura Municipal de Simão Dias - SE",1,26
+2073,"Prefeitura Municipal de Simões - PI",1,18
+2074,"Prefeitura Municipal de Simões Filho - BA",1,5
+2075,"Prefeitura Municipal de Simplício Mendes - PI",1,18
+2076,"Prefeitura Municipal de Sirinhaém - PE",1,17
+2077,"Prefeitura Municipal de Sítio D'abadia - GO",1,9
+2078,"Prefeitura Municipal de Sítio do Quinto - BA",1,5
+2079,"Prefeitura Municipal de Sítio Novo - MA",1,10
+2080,"Prefeitura Municipal de Sítio Novo do Tocantins - TO",1,27
+2081,"Prefeitura Municipal de Sobradinho - BA",1,5
+2082,"Prefeitura Municipal de Sobrado - PB",1,15
+2083,"Prefeitura Municipal de Sobral - CE",1,6
+2084,"Prefeitura Municipal de Socorro do Piauí - PI",1,18
+2085,"Prefeitura Municipal de Solânea - PB",1,15
+2086,"Prefeitura Municipal de Solidão - PE",1,17
+2087,"Prefeitura Municipal de Solonópole - CE",1,6
+2088,"Prefeitura Municipal de Sorriso - MT",1,11
+2089,"Prefeitura Municipal de Sossêgo - PB",1,15
+2090,"Prefeitura Municipal de Soure - PA",1,14
+2091,"Prefeitura Municipal de Sousa - PB",1,15
+2092,"Prefeitura Municipal de Souto Soares - BA",1,5
+2093,"Prefeitura Municipal de Sucupira do Riachão - MA",1,10
+2094,"Prefeitura Municipal de Sumé - PB",1,15
+2095,"Prefeitura Municipal de Surubim - PE",1,17
+2096,"Prefeitura Municipal de Tabatinga - AM",1,4
+2097,"Prefeitura Municipal de Tabira - PE",1,17
+2098,"Prefeitura Municipal de Taboão da Serra - SP",1,25
+2099,"Prefeitura Municipal de Tacaimbó - PE",1,17
+2100,"Prefeitura Municipal de Tacaratu - PE",1,17
+2101,"Prefeitura Municipal de Tacima - PB",1,15
+2102,"Prefeitura Municipal de Tacuru - MS",1,12
+2103,"Prefeitura Municipal de Taguatinga - TO",1,27
+2104,"Prefeitura Municipal de Tailândia - PA",1,14
+2105,"Prefeitura Municipal de Taipu - RN",1,20
+2106,"Prefeitura Municipal de Talismã - TO",1,27
+2107,"Prefeitura Municipal de Tamandaré - PE",1,17
+2108,"Prefeitura Municipal de Tamboril - CE",1,6
+2109,"Prefeitura Municipal de Tamboril do Piauí - PI",1,18
+2110,"Prefeitura Municipal de Tanabi - SP",1,25
+2111,"Prefeitura Municipal de Tangará - RN",1,20
+2112,"Prefeitura Municipal de Tanguá - RJ",1,19
+2113,"Prefeitura Municipal de Tanhaçu - BA",1,5
+2114,"Prefeitura Municipal de Tanque D'arca - AL",1,2
+2115,"Prefeitura Municipal de Tanque do Piauí - PI",1,18
+2116,"Prefeitura Municipal de Taperoá - BA",1,5
+2117,"Prefeitura Municipal de Taperoá - PB",1,15
+2118,"Prefeitura Municipal de Tapira - MG",1,13
+2119,"Prefeitura Municipal de Tapurah - MT",1,11
+2120,"Prefeitura Municipal de Taquaral de Goiás - GO",1,9
+2121,"Prefeitura Municipal de Taquari - RS",1,21
+2122,"Prefeitura Municipal de Tarauacá - AC",1,1
+2123,"Prefeitura Municipal de Tarrafas - CE",1,6
+2124,"Prefeitura Municipal de Tartarugalzinho - AP",1,3
+2125,"Prefeitura Municipal de Tarumirim - MG",1,13
+2126,"Prefeitura Municipal de Tatuí - SP",1,25
+2127,"Prefeitura Municipal de Tauá - CE",1,6
+2128,"Prefeitura Municipal de Tavares - PB",1,15
+2129,"Prefeitura Municipal de Tefé - AM",1,4
+2130,"Prefeitura Municipal de Teixeira - PB",1,15
+2131,"Prefeitura Municipal de Teixeiras - MG",1,13
+2132,"Prefeitura Municipal de Telha - SE",1,26
+2133,"Prefeitura Municipal de Tenente Laurentino Cruz - RN",1,20
+2134,"Prefeitura Municipal de Tenório - PB",1,15
+2135,"Prefeitura Municipal de Teodoro Sampaio - BA",1,5
+2136,"Prefeitura Municipal de Teolândia - BA",1,5
+2137,"Prefeitura Municipal de Teotônio Vilela - AL",1,2
+2138,"Prefeitura Municipal de Teresópolis de Goiás - GO",1,9
+2139,"Prefeitura Municipal de Terezinha - PE",1,17
+2140,"Prefeitura Municipal de Terra Alta - PA",1,14
+2141,"Prefeitura Municipal de Terra Nova - BA",1,5
+2142,"Prefeitura Municipal de Terra Nova do Norte - MT",1,11
+2143,"Prefeitura Municipal de Terra Roxa - PR",1,16
+2144,"Prefeitura Municipal de Terra Santa - PA",1,14
+2145,"Prefeitura Municipal de Teutônia - RS",1,21
+2146,"Prefeitura Municipal de Tianguá - CE",1,6
+2147,"Prefeitura Municipal de Tibau - RN",1,20
+2148,"Prefeitura Municipal de Timbaúba - PE",1,17
+2149,"Prefeitura Municipal de Timbiras - MA",1,10
+2150,"Prefeitura Municipal de Timon - MA",1,10
+2151,"Prefeitura Municipal de Tocantinópolis - TO",1,27
+2152,"Prefeitura Municipal de Tomar do Geru - SE",1,26
+2153,"Prefeitura Municipal de Tombos - MG",1,13
+2154,"Prefeitura Municipal de Tomé-Açu - PA",1,14
+2155,"Prefeitura Municipal de Tonantins - AM",1,4
+2156,"Prefeitura Municipal de Toritama - PE",1,17
+2157,"Prefeitura Municipal de Torixoréu - MT",1,11
+2158,"Prefeitura Municipal de Torres - RS",1,21
+2159,"Prefeitura Municipal de Touros - RN",1,20
+2160,"Prefeitura Municipal de Tracuateua - PA",1,14
+2161,"Prefeitura Municipal de Tracunhaém - PE",1,17
+2162,"Prefeitura Municipal de Traipu - AL",1,2
+2163,"Prefeitura Municipal de Trairão - PA",1,14
+2164,"Prefeitura Municipal de Trairi - CE",1,6
+2165,"Prefeitura Municipal de Tremedal - BA",1,5
+2166,"Prefeitura Municipal de Trindade - GO",1,9
+2167,"Prefeitura Municipal de Trindade - PE",1,17
+2168,"Prefeitura Municipal de Triunfo - PB",1,15
+2169,"Prefeitura Municipal de Triunfo - PE",1,17
+2170,"Prefeitura Municipal de Trizidela do Vale - MA",1,10
+2171,"Prefeitura Municipal de Tucano - BA",1,5
+2172,"Prefeitura Municipal de Tucumã - PA",1,14
+2173,"Prefeitura Municipal de Tucunduva - RS",1,21
+2174,"Prefeitura Municipal de Tucuruí - PA",1,14
+2175,"Prefeitura Municipal de Tufilândia - MA",1,10
+2176,"Prefeitura Municipal de Tumiritinga - MG",1,13
+2177,"Prefeitura Municipal de Tupã - SP",1,25
+2178,"Prefeitura Municipal de Tupaciguara - MG",1,13
+2179,"Prefeitura Municipal de Tupanatinga - PE",1,17
+2180,"Prefeitura Municipal de Tuparetama - PE",1,17
+2181,"Prefeitura Municipal de Turiaçu - MA",1,10
+2182,"Prefeitura Municipal de Turilândia - MA",1,10
+2183,"Prefeitura Municipal de Turiúba - SP",1,25
+2184,"Prefeitura Municipal de Turuçu - RS",1,21
+2185,"Prefeitura Municipal de Tutóia - MA",1,10
+2186,"Prefeitura Municipal de Uarini - AM",1,4
+2187,"Prefeitura Municipal de Uauá - BA",1,5
+2188,"Prefeitura Municipal de Ubajara - CE",1,6
+2189,"Prefeitura Municipal de Ubarana - SP",1,25
+2190,"Prefeitura Municipal de Ubatã - BA",1,5
+2191,"Prefeitura Municipal de Ubirajara - SP",1,25
+2192,"Prefeitura Municipal de Uibaí - BA",1,5
+2193,"Prefeitura Municipal de Uiramutã - RR",1,23
+2194,"Prefeitura Municipal de Umari - CE",1,6
+2195,"Prefeitura Municipal de Umbaúba - SE",1,26
+2196,"Prefeitura Municipal de Umbuzeiro - PB",1,15
+2197,"Prefeitura Municipal de Umirim - CE",1,6
+2198,"Prefeitura Municipal de Umuarama - PR",1,16
+2199,"Prefeitura Municipal de União - PI",1,18
+2200,"Prefeitura Municipal de União do Sul - MT",1,11
+2201,"Prefeitura Municipal de União dos Palmares - AL",1,2
+2202,"Prefeitura Municipal de Upanema - RN",1,20
+2203,"Prefeitura Municipal de Uraí - PR",1,16
+2204,"Prefeitura Municipal de Urbano Santos - MA",1,10
+2205,"Prefeitura Municipal de Uru - SP",1,25
+2206,"Prefeitura Municipal de Uruaçu - GO",1,9
+2207,"Prefeitura Municipal de Uruará - PA",1,14
+2208,"Prefeitura Municipal de Uruburetama - CE",1,6
+2209,"Prefeitura Municipal de Urucará - AM",1,4
+2210,"Prefeitura Municipal de Uruçuca - BA",1,5
+2211,"Prefeitura Municipal de Uruçuí - PI",1,18
+2212,"Prefeitura Municipal de Urucurituba - AM",1,4
+2213,"Prefeitura Municipal de Uruguaiana - RS",1,21
+2214,"Prefeitura Municipal de Urussanga - SC",1,24
+2215,"Prefeitura Municipal de Vale de São Domingos-MT",1,11
+2216,"Prefeitura Municipal de Vale do Anari - RO",1,22
+2217,"Prefeitura Municipal de Valentim Gentil - SP",1,25
+2218,"Prefeitura Municipal de Vargem - SP",1,25
+2219,"Prefeitura Municipal de Vargem Alegre - MG",1,13
+2220,"Prefeitura Municipal de Vargem Grande - MA",1,10
+2221,"Prefeitura Municipal de Vargem Grande do Sul - SP",1,25
+2222,"Prefeitura Municipal de Várzea - PB",1,15
+2223,"Prefeitura Municipal de Várzea Alegre - CE",1,6
+2224,"Prefeitura Municipal de Várzea Branca - PI",1,18
+2225,"Prefeitura Municipal de Várzea da Palma - MG",1,13
+2226,"Prefeitura Municipal de Várzea da Roça - BA",1,5
+2227,"Prefeitura Municipal de Várzea Grande - MT",1,11
+2228,"Prefeitura Municipal de Varzedo - BA",1,5
+2229,"Prefeitura Municipal de Vassouras - RJ",1,19
+2230,"Prefeitura Municipal de Vazante - MG",1,13
+2231,"Prefeitura Municipal de Venâncio Aires - RS",1,21
+2232,"Prefeitura Municipal de Vera Cruz - BA",1,5
+2233,"Prefeitura Municipal de Vera Mendes - PI",1,18
+2234,"Prefeitura Municipal de Vereda - BA",1,5
+2235,"Prefeitura Municipal de Vertentes - PE",1,17
+2236,"Prefeitura Municipal de Viana - ES",1,8
+2237,"Prefeitura Municipal de Viana - MA",1,10
+2238,"Prefeitura Municipal de Vicente Dutra - RS",1,21
+2239,"Prefeitura Municipal de Vigia - PA",1,14
+2240,"Prefeitura Municipal de Vila Bela Santíssima Trindade - MT",1,11
+2241,"Prefeitura Municipal de Vila Boa - GO",1,9
+2242,"Prefeitura Municipal de Vila Rica - MT",1,11
+2243,"Prefeitura Municipal de Vinhedo - SP",1,25
+2244,"Prefeitura Municipal de Virgolândia - MG",1,13
+2245,"Prefeitura Municipal de Viseu - PA",1,14
+2246,"Prefeitura Municipal de Vista Alegre - RS",1,21
+2247,"Prefeitura Municipal de Vista Serrana - PB",1,15
+2248,"Prefeitura Municipal de Vitória de Santo Antão - PE",1,17
+2249,"Prefeitura Municipal de Vitória do Jari - AP",1,3
+2250,"Prefeitura Municipal de Vitória do Mearim - MA",1,10
+2251,"Prefeitura Municipal de Vitória do Xingu - PA",1,14
+2252,"Prefeitura Municipal de Vitorino Freire - MA",1,10
+2253,"Prefeitura Municipal de Wagner - BA",1,5
+2254,"Prefeitura Municipal de Wanderlândia - TO",1,27
+2255,"Prefeitura Municipal de Wanderley - BA",1,5
+2256,"Prefeitura Municipal de Wenceslau Guimarães - BA",1,5
+2257,"Prefeitura Municipal de Xambioá - TO",1,27
+2258,"Prefeitura Municipal de Xapuri - AC",1,1
+2259,"Prefeitura Municipal de Xexéu - PE",1,17
+2260,"Prefeitura Municipal de Xinguara - PA",1,14
+2261,"Prefeitura Municipal de Zabelê - PB",1,15
+2262,"Prefeitura Municipal de Zacarias - SP",1,25
+2263,"Prefeitura Municipal de Zé Doca - MA",1,10
+2264,"Prefeitura Municipal do Natal - RN",1,20
+2265,"PREVIC - Superintendência Nacional de Previdência Complementar",3,NULL
+2266,"PRM/MG - Prefeituras Municipais do Estado de Minas Gerais (853 Municípios)",2,13
+2267,"PRM/MT - Prefeituras Municipais do Estado de Mato Grosso (139 Municípios)",2,11
+2268,"PRO-AGRAR - Instituto de Promocao Agricola e Desenvolvimento Rural",3,NULL
+2269,"RFB - Secretaria Especial da Receita Federal do Brasil",3,NULL
+2270,"RIOMAR - Fundação Rio Madeira
+",3,NULL
+2271,"Sain/MF - Secretaria de Assuntos Internacionais",3,NULL
+2272,"SCI/CD - Secretaria de Controle Interno/Câmara dos Deputados",3,NULL
+2273,"SE/MAPA - Secretaria-Executiva do Ministério da Agricultura, Pecuária e Abastecimento",3,NULL
+2274,"SE/MCOM - Secretaria-Executiva do Ministério das Comunicações",3,NULL
+2275,"SE/MCTI - Secretaria-Executiva do Ministério da Ciência, Tecnologia e Inovações",3,NULL
+2276,"SE/MDA - Secretaria Executiva do Ministério do Desenvolvimento Agrário (extinta)",3,NULL
+2277,"SE/MDIC - Secretaria-Executiva do Ministério da Indústria, Comércio Exterior e Serviços (extinta)",3,NULL
+2278,"SE/MDSA - Secretaria Executiva do Ministério do Desenvolvimento Social e Agrário (extinta)",3,NULL
+2279,"SE/ME - Secretaria Executiva do Ministério do Esporte(extinta)",3,NULL
+2280,"SE/MI - Secretaria Executiva do Ministério da Integração Nacional (extinta)",3,NULL
+2281,"SE/MinC - Secretaria Executiva do Ministério da Cultura (extinta)",3,NULL
+2282,"SE/MJSP - Secretaria-Executiva do Ministério da Justiça e Segurança Pública",3,NULL
+2283,"SE/MME - Secretaria-Executiva do Ministério de Minas e Energia",3,NULL
+2284,"SE/MT - Secretaria Executiva do Ministério do Trabalho (extinta)",3,NULL
+2285,"SEAD/PR - Secretaria Especial de Agricultura Familiar e Desenvolvimento Agrário",3,NULL
+2286,"Secretaria de Desenvolvimento Agropecuário e Cooperativismo - Mapa",3,NULL
+2287,"Secretaria de Estado da Fazenda de Sergipe",2,26
+2288,"Secretaria de Estado de Governo e Gestao Estrategica",2,NULL
+2289,"Secretaria de Fazenda do Estado de Alagoas",2,2
+2290,"Secretaria de Saneamento e Energia do Estado de Alagoas",2,2
+2291,"Secretaria do Gabinete Civil do Estado de Alagoas",2,2
+2292,"Secretaria Especial de Direitos Humanos",3,NULL
+2293,"Secretaria Especial de Políticas de Promoção da Igualdade Racial",3,NULL
+2294,"Secretaria Estadual de Defesa Civil",2,NULL
+2295,"Secretaria Municipal de Saude",1,NULL
+2296,"Secretaria Municipal de Saude de Esperantina/PI",1,18
+2297,"Secretaria Municipal de Saude de Palmeira dos Indios - AL",1,2
+2298,"Secretaria Municipal de Saude de Uniao/PI",1,18
+2299,"SECULTURA - Secretaria Especial da Cultura",3,NULL
+2300,"SEDS - Secretaria Especial do Desenvolvimento Social",3,NULL
+2301,"SEE - Secretaria Especial do Esporte",3,NULL
+2302,"Sefic - Secretaria de Fomento e Incentivo Fomento À Cultura",3,NULL
+2303,"SEINF - Secretaria de Infra-Estrutura do Estado de Tocantins",2,27
+2304,"SEINFRA/AL - Secretaria de Estado da Infra-Estrutura de Alagoas",2,2
+2305,"Senasp - Secretaria Nacional de Segurança Pública",3,NULL
+2306,"Serviço de Apoio Às Micro e Pequenas Empresas do Amazonas",2,4
+2307,"Serviço de Apoio Às Micro e Pequenas Empresas do Distrito Federal",2,7
+2308,"Serviço de Apoio Às Micro e Pequenas Empresas do Mato Grosso do Sul",2,12
+2309,"Serviço Nacional de Aprendizagem do Cooperativismo No Estado do Amazonas",2,4
+2310,"SESAB - Secretaria da Saúde do Estado da Bahia - Sesab",2,5
+2311,"Sesai - Secretaria Especial de Saúde Indígena",3,NULL
+2312,"Sesan - Secretaria Nacional de Segurança Alimentar e Nutricional (extinta)",3,NULL
+2313,"SES-DF - Secretaria de Estado de Saúde do Distrito Federal",2,7
+2314,"SES-GO - Secretaria de Estado da Saúde de Goiás",2,9
+2315,"SESPA - Secretaria Executiva de Saúde Pública do Pará",2,14
+2316,"SFA/PE - Superintendência Federal de Agricultura, Pecuária e Abastecimento No Estado de Pernambuco",2,17
+2317,"SFA/PR - Superintendência Federal de Agricultura, Pecuária e Abastecimento No Estado do Paraná",2,16
+2318,"SIDC/MinC - Secretaria da Identidade e da Diversidade Cultural - Minc",3,NULL
+2319,"Sindicato dos Trabalhadores Ind. Gráficas, Com. Gráfica e Serv. Gráficos de Manaus e do Amazonas",3,NULL
+2320,"SINFRA - Secretaria de Estado de Infra-Estrutura do Estado de Mato Grosso",2,11
+2321,"SNEE/ME - Secretaria Nacional de Esporte Educacional - Me (extinta)",3,NULL
+2322,"SNH - Secretaria Nacional de Habitação",3,NULL
+2323,"SPM - Secretaria Nacional de Políticas Para Mulheres",3,NULL
+2324,"Spoa/MF - Subsecretaria de Planejamento, Orçamento e Administração do Ministério da Fazenda",3,NULL
+2325,"SPPE - Secretaria de Políticas Públicas de Emprego",3,NULL
+2326,"SRA/BA - Superintendência Regional de Administração do Ministério da Economia Na Bahia",2,5
+2327,"SRA/PE - Superintendência Regional de Administração do Ministério da Economia Em Pernambuco",2,17
+2328,"SR-AM/DPF - Dpf - Superint. Regional/AM - Mj",2,4
+2329,"SRH-Gov-RN - Secretaria de Recursos Hídricos do Governo do Estado do Rio Grande do Norte",2,20
+2330,"SRTb/GO - Superintendência Regional do Trabalho No Estado de Goiás",2,9
+2331,"SS-Gov-RN - Secretaria de Saúde Pública do Governo do Estado do Rio Grande do Norte",2,20
+2332,"Subcomando de Acoes de Defesa Civil",3,NULL
+2333,"Sudeco - Superintendência do Desenvolvimento do Centro-Oeste",3,NULL
+2334,"Sudene - Superintendência de Desenvolvimento do Nordeste",3,NULL
+2335,"Suest/AC - Superintendência Estadual da Funasa No Estado do Acre",2,1
+2336,"Suest/AP - Superintendência Estadual da Funasa No Estado do Amapá",2,3
+2337,"Suest/BA - Superintendência Estadual da Funasa Na Bahia",2,5
+2338,"Suest/GO - Superintendência Estadual da Funasa No Estado de Goiás",2,9
+2339,"Suest/MG - Superintendência Estadual da Funasa Em Minas Gerais",2,13
+2340,"Suest/PA - Superintendência Estadual da Funasa No Estado do Pará",2,14
+2341,"Suest/PB - Superintendência Estadual da Funasa No Estado da Paraíba",2,15
+2342,"Suest/PI - Superintendência Estadual da Funasa No Estado do Piauí",2,18
+2343,"Suest/PR - Superintendência Estadual da Funasa No Paraná",2,16
+2344,"Suest/RJ - Superintendência Estadual da Funasa No Estado do Rio de Janeiro",2,19
+2345,"Suest/RN - Superintendência Estadual da Funasa No Estado do Rio Grande do Norte",2,20
+2346,"Suest/SC - Superintendência Estadual da Funasa No Estado de Santa Catarina",2,24
+2347,"Suest/SE - Superintendência Estadual da Funasa Em Sergipe",2,26
+2348,"Suest/TO - Superintendência Estadual da Funasa No Tocantins",2,27
+2349,"Suframa - Superintendência da Zona Franca de Manaus",3,NULL
+2350,"Superintendência do Desenvolvimento do Nordeste (extinta) - Mi",3,NULL
+2351,"Superintendência Estadual do Inss - Aracajú/SE - Inss/Mps",2,26
+2352,"Superintendência Estadual do Inss - Belo Horizonte/MG - Inss/Mps",2,13
+2353,"Superintendência Estadual do Inss - Campo Grande/MS - Inss/Mps",2,12
+2354,"Superintendência Estadual do Inss - Florianopólis/SC - Inss/Mps",2,24
+2355,"Superintendência Estadual do Inss - Palmas/TO - Inss/Mps",2,27
+2356,"Superintendência Estadual do Inss - Recife/PE - Inss/Mps",2,17
+2357,"Superintendência Estadual do Inss - Rio de Janeiro/RJ - Inss/Mps",2,19
+2358,"Superintendência Estadual do Inss - São Luis/MA - Inss/Mps",2,10
+2359,"Superintendência Estadual do Inss - São Paulo/SP - Inss/Mps",2,25
+2360,"Superintendência Regional do Incra Em Marabá/PA",2,14
+2361,"Superintendência Regional do Incra No Distrito Federal",2,7
+2362,"Superintendência Regional do Incra No Estado da Bahia",2,5
+2363,"Superintendência Regional do Incra No Estado de Mato Grosso",2,11
+2364,"Superintendência Regional do Incra No Estado do Ceará",2,6
+2365,"Superintendência Regional do Incra No Estado do Mato Grosso do Sul",2,12
+2366,"Superintendência Regional do Incra No Estado do Rio Grande do Sul",2,21
+2367,"TCU - Tribunal de Contas da União",3,NULL
+2368,"TRE/CE - Tribunal Regional Eleitoral do Ceará",2,6
+2369,"TRE/MA - Tribunal Regional Eleitoral do Maranhão",2,10
+2370,"TRE/PB - Tribunal Regional Eleitoral da Paraíba",2,15
+2371,"TRE/PE - Tribunal Regional Eleitoral de Pernambuco",2,17
+2372,"TRF 1ª Região - Tribunal Regional Federal da 1ª Região",3,NULL
+2373,"TRT/AC e RO - Tribunal Regional do Trabalho da 14ª Região/AC e RO",4,NULL
+2374,"TRT/AM e RR - Tribunal Regional do Trabalho da 11ª Região/AM e RR",4,NULL
+2375,"TRT/MG - Tribunal Regional do Trabalho da 3ª Região/MG",2,13
+2376,"TRT/RJ - Tribunal Regional do Trabalho da 1ª Região/RJ",2,19
+2377,"TST - Tribunal Superior do Trabalho",3,NULL
+2378,"UFBA - Universidade Federal da Bahia",3,5
+2379,"UFF - Universidade Federal Fluminense",3,19
+2380,"UFPB - Universidade Federal da Paraíba",3,15
+2381,"UFPEL - Universidade Federal de Pelotas",3,21
+2382,"UFPR - Universidade Federal do Paraná",3,16
+2383,"UFRA - Universidade Federal Rural da Amazônia",3,4
+2384,"UFRN - Universidade Federal do Rio Grande do Norte",3,20
+2385,"UNIFA - Universidade da Força Aérea",3,NULL
+2386,"Unifesp - Universidade Federal de São Paulo",3,25
+2387,"UNISOL - Fundacao de Apoio Institucional Rio Solimoes",3,NULL
+2388,"Universidade Federal do Estado do Rio de Janeiro",3,19
+2389,"Upa de Santa Rita-PB - Secretaria de Estado da Saude do Estado da Paraiba",2,15
+2390,"Urihi - Saude Yanomami",3,NULL
+2391,"Valec-RJ - Valec Engenharia, Construções e Ferrovias S.A. (filial Rj)",3,NULL
+2392,"VI COMAR - 6º Comando Aéreo Regional",3,NULL
+2393,"Administração Regional do Sesc No Estado do Rio de Janeiro",2,19
